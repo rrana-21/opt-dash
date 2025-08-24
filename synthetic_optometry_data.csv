@@ -1,0 +1,1001 @@
+TransactionID,Date,PatientID,ServiceType,FrameBrand,LensType,Quantity,UnitPrice,InsuranceUsed,TotalPrice
+OPT-00001,2025-02-14 11:37:57,O-2948,Eye Exam,Prada,Bifocal,1,237.3,False,237.3
+OPT-00002,2025-05-09 12:34:02,O-2708,Contact Lens Fitting,Gucci,Progressive,1,337.92,False,337.92
+OPT-00003,2024-11-23 20:33:07,O-2421,Contact Lens Fitting,Gucci,Single Vision,1,318.32,False,318.32
+OPT-00004,2025-04-24 08:26:05,O-2626,Eye Exam,Oakley,Bifocal,1,238.45,True,166.91
+OPT-00005,2024-12-03 21:31:20,O-2196,Eye Exam,Prada,Single Vision,1,328.51,True,229.96
+OPT-00006,2025-05-11 19:20:55,O-2475,Contact Lens Fitting,Oakley,Single Vision,1,137.17,True,96.02
+OPT-00007,2025-03-23 11:38:47,O-2701,Dry Eye Consultation,Generic,Progressive,1,121.89,True,85.32
+OPT-00008,2024-12-07 15:16:30,O-2055,Glaucoma Screening,Oakley,Progressive,1,245.6,False,245.6
+OPT-00009,2025-06-30 15:43:18,O-2631,Dry Eye Consultation,Ray-Ban,Single Vision,1,383.19,True,268.23
+OPT-00010,2025-05-24 02:31:28,O-2161,Eye Exam,Generic,Single Vision,1,81.89,True,57.32
+OPT-00011,2024-10-23 07:06:19,O-2738,Dry Eye Consultation,Prada,Bifocal,1,238.58,False,238.58
+OPT-00012,2025-02-19 06:49:47,O-2235,Eye Exam,Oakley,Progressive,1,94.13,False,94.13
+OPT-00013,2025-08-10 19:01:26,O-2890,Contact Lens Fitting,Generic,Progressive,1,83.09,False,83.09
+OPT-00014,2024-09-24 23:14:29,O-2055,Dry Eye Consultation,Gucci,Progressive,1,467.55,False,467.55
+OPT-00015,2025-05-10 01:38:23,O-2182,Dry Eye Consultation,Oakley,Progressive,1,255.98,True,179.19
+OPT-00016,2025-04-14 19:41:19,O-2647,Glaucoma Screening,Oakley,Progressive,1,201.15,True,140.81
+OPT-00017,2025-01-16 05:03:55,O-2708,Eye Exam,Oakley,Progressive,1,100.0,False,100.0
+OPT-00018,2025-02-07 03:06:30,O-2469,Dry Eye Consultation,Gucci,Bifocal,1,148.93,False,148.93
+OPT-00019,2025-03-24 09:30:07,O-2618,Contact Lens Fitting,Prada,Progressive,1,310.15,True,217.1
+OPT-00020,2024-11-21 22:39:48,O-2088,Dry Eye Consultation,Prada,Contact Lenses,1,437.99,True,306.59
+OPT-00021,2025-05-30 17:09:37,O-2605,Dry Eye Consultation,Generic,Bifocal,1,56.53,False,56.53
+OPT-00022,2025-05-14 20:09:55,O-2753,Contact Lens Fitting,Gucci,Bifocal,1,245.41,True,171.79
+OPT-00023,2025-03-31 15:30:23,O-2913,Contact Lens Fitting,Prada,Single Vision,1,238.0,True,166.6
+OPT-00024,2025-03-11 06:03:04,O-2041,Dry Eye Consultation,Prada,Single Vision,1,241.56,False,241.56
+OPT-00025,2025-08-20 21:45:22,O-2490,Eye Exam,Generic,Contact Lenses,1,158.23,True,110.76
+OPT-00026,2025-06-20 05:11:38,O-2709,Dry Eye Consultation,Gucci,Progressive,1,211.28,True,147.9
+OPT-00027,2025-03-09 07:24:42,O-2663,Eye Exam,Ray-Ban,Contact Lenses,1,351.07,True,245.75
+OPT-00028,2025-06-29 06:56:38,O-2720,Dry Eye Consultation,Prada,Single Vision,1,489.39,False,489.39
+OPT-00029,2025-08-11 01:27:28,O-2790,Contact Lens Fitting,Generic,Progressive,1,405.44,False,405.44
+OPT-00030,2024-09-28 07:00:23,O-2641,Dry Eye Consultation,Ray-Ban,Single Vision,1,223.2,False,223.2
+OPT-00031,2025-03-15 13:17:59,O-2543,Eye Exam,Oakley,Contact Lenses,1,388.8,True,272.16
+OPT-00032,2024-10-18 07:31:10,O-2806,Eye Exam,Prada,Bifocal,1,381.09,True,266.76
+OPT-00033,2025-05-21 17:42:27,O-2527,Glaucoma Screening,Ray-Ban,Single Vision,1,222.33,False,222.33
+OPT-00034,2025-08-23 04:40:52,O-2633,Eye Exam,Oakley,Bifocal,1,128.87,True,90.21
+OPT-00035,2024-12-17 08:37:21,O-2574,Contact Lens Fitting,Gucci,Bifocal,1,157.38,True,110.17
+OPT-00036,2024-11-02 05:17:37,O-2664,Dry Eye Consultation,Prada,Progressive,1,388.93,True,272.25
+OPT-00037,2025-06-12 21:24:59,O-2328,Glaucoma Screening,Oakley,Contact Lenses,1,174.72,True,122.3
+OPT-00038,2024-09-01 18:48:42,O-2381,Glaucoma Screening,Generic,Contact Lenses,1,275.65,True,192.95
+OPT-00039,2025-01-11 18:54:10,O-2481,Glaucoma Screening,Generic,Bifocal,1,409.96,True,286.97
+OPT-00040,2025-07-22 07:01:28,O-2192,Dry Eye Consultation,Ray-Ban,Single Vision,1,225.81,True,158.07
+OPT-00041,2024-10-25 23:29:00,O-2295,Eye Exam,Ray-Ban,Progressive,1,174.17,True,121.92
+OPT-00042,2024-11-11 03:43:37,O-2508,Contact Lens Fitting,Gucci,Single Vision,1,181.93,True,127.35
+OPT-00043,2025-06-23 14:18:24,O-2485,Glaucoma Screening,Generic,Contact Lenses,1,381.97,True,267.38
+OPT-00044,2025-07-04 19:12:27,O-2298,Contact Lens Fitting,Ray-Ban,Single Vision,1,442.31,True,309.62
+OPT-00045,2024-09-25 11:44:43,O-2854,Glaucoma Screening,Generic,Bifocal,1,345.09,False,345.09
+OPT-00046,2025-05-31 06:10:15,O-2497,Dry Eye Consultation,Generic,Bifocal,1,305.26,False,305.26
+OPT-00047,2025-02-03 19:57:02,O-2175,Glaucoma Screening,Gucci,Contact Lenses,1,217.36,False,217.36
+OPT-00048,2024-10-04 00:26:37,O-2788,Eye Exam,Gucci,Bifocal,1,177.97,True,124.58
+OPT-00049,2025-01-06 01:31:25,O-2633,Contact Lens Fitting,Prada,Bifocal,1,132.03,True,92.42
+OPT-00050,2025-02-23 21:32:27,O-2859,Contact Lens Fitting,Gucci,Progressive,1,102.61,False,102.61
+OPT-00051,2025-08-17 11:09:44,O-2588,Contact Lens Fitting,Generic,Bifocal,1,216.35,True,151.44
+OPT-00052,2024-09-06 21:55:26,O-2575,Eye Exam,Oakley,Bifocal,1,116.57,False,116.57
+OPT-00053,2025-05-24 08:09:26,O-2552,Contact Lens Fitting,Prada,Bifocal,1,104.67,True,73.27
+OPT-00054,2025-03-04 19:37:09,O-2414,Dry Eye Consultation,Gucci,Contact Lenses,1,467.52,True,327.26
+OPT-00055,2024-10-30 03:09:06,O-2004,Glaucoma Screening,Oakley,Contact Lenses,1,453.19,True,317.23
+OPT-00056,2024-12-04 12:04:52,O-2818,Dry Eye Consultation,Oakley,Single Vision,1,379.24,True,265.47
+OPT-00057,2024-09-05 12:46:24,O-2142,Eye Exam,Oakley,Single Vision,1,230.73,True,161.51
+OPT-00058,2025-04-28 00:02:48,O-2456,Glaucoma Screening,Ray-Ban,Bifocal,1,74.77,True,52.34
+OPT-00059,2024-10-24 09:00:45,O-2597,Contact Lens Fitting,Oakley,Progressive,1,60.15,False,60.15
+OPT-00060,2025-07-12 05:52:30,O-2693,Eye Exam,Prada,Contact Lenses,1,137.5,False,137.5
+OPT-00061,2024-12-16 16:41:23,O-2617,Eye Exam,Oakley,Contact Lenses,1,116.58,False,116.58
+OPT-00062,2024-12-28 20:02:18,O-2378,Dry Eye Consultation,Oakley,Single Vision,1,178.09,False,178.09
+OPT-00063,2024-11-10 17:48:09,O-2315,Dry Eye Consultation,Prada,Single Vision,1,147.06,False,147.06
+OPT-00064,2024-09-03 15:46:52,O-2759,Dry Eye Consultation,Generic,Bifocal,1,123.71,False,123.71
+OPT-00065,2025-02-27 19:14:38,O-2746,Dry Eye Consultation,Gucci,Single Vision,1,114.64,False,114.64
+OPT-00066,2025-02-02 21:52:34,O-2486,Glaucoma Screening,Ray-Ban,Contact Lenses,1,89.8,False,89.8
+OPT-00067,2024-11-09 23:00:14,O-2654,Glaucoma Screening,Generic,Progressive,1,300.12,True,210.08
+OPT-00068,2025-07-28 18:06:35,O-2204,Contact Lens Fitting,Generic,Bifocal,1,299.24,True,209.47
+OPT-00069,2025-06-24 06:19:27,O-2842,Glaucoma Screening,Prada,Bifocal,1,272.35,False,272.35
+OPT-00070,2025-07-15 21:36:28,O-2229,Eye Exam,Ray-Ban,Progressive,1,168.2,False,168.2
+OPT-00071,2025-03-12 21:10:47,O-2127,Glaucoma Screening,Generic,Progressive,1,271.35,True,189.94
+OPT-00072,2024-12-12 11:59:44,O-2029,Eye Exam,Oakley,Contact Lenses,1,497.45,True,348.21
+OPT-00073,2025-08-12 04:25:52,O-2613,Glaucoma Screening,Prada,Contact Lenses,1,304.51,False,304.51
+OPT-00074,2024-11-06 07:05:02,O-2643,Dry Eye Consultation,Ray-Ban,Bifocal,1,280.64,True,196.45
+OPT-00075,2024-12-12 20:12:47,O-2865,Glaucoma Screening,Gucci,Single Vision,1,115.76,False,115.76
+OPT-00076,2024-10-23 20:23:45,O-2899,Contact Lens Fitting,Oakley,Progressive,1,73.8,False,73.8
+OPT-00077,2024-10-12 08:20:33,O-2429,Glaucoma Screening,Ray-Ban,Bifocal,1,181.25,True,126.87
+OPT-00078,2024-09-15 15:37:40,O-2526,Contact Lens Fitting,Gucci,Single Vision,1,319.44,True,223.61
+OPT-00079,2025-08-20 07:12:57,O-2556,Glaucoma Screening,Oakley,Bifocal,1,172.16,False,172.16
+OPT-00080,2025-04-03 16:58:18,O-2098,Glaucoma Screening,Gucci,Single Vision,1,111.63,False,111.63
+OPT-00081,2024-09-03 10:35:12,O-2381,Dry Eye Consultation,Generic,Bifocal,1,464.41,True,325.09
+OPT-00082,2024-08-31 04:47:40,O-2104,Contact Lens Fitting,Gucci,Progressive,1,424.21,True,296.95
+OPT-00083,2025-06-22 09:51:32,O-2427,Dry Eye Consultation,Ray-Ban,Single Vision,1,418.48,True,292.94
+OPT-00084,2024-09-09 10:11:36,O-2491,Glaucoma Screening,Oakley,Bifocal,1,112.56,False,112.56
+OPT-00085,2024-10-19 14:48:50,O-2911,Glaucoma Screening,Gucci,Bifocal,1,62.94,True,44.06
+OPT-00086,2025-06-30 15:40:13,O-2227,Contact Lens Fitting,Gucci,Progressive,1,188.34,True,131.84
+OPT-00087,2025-02-08 17:34:37,O-2133,Eye Exam,Generic,Single Vision,1,84.98,False,84.98
+OPT-00088,2025-02-07 22:31:35,O-2775,Dry Eye Consultation,Ray-Ban,Progressive,1,98.52,True,68.96
+OPT-00089,2024-10-10 11:03:35,O-2480,Eye Exam,Oakley,Single Vision,1,79.81,True,55.87
+OPT-00090,2024-08-30 05:04:30,O-2772,Eye Exam,Ray-Ban,Progressive,1,314.42,True,220.09
+OPT-00091,2025-04-17 21:00:45,O-2189,Glaucoma Screening,Ray-Ban,Single Vision,1,115.5,False,115.5
+OPT-00092,2025-03-03 10:33:20,O-2971,Glaucoma Screening,Oakley,Progressive,1,434.81,True,304.37
+OPT-00093,2024-10-30 01:18:08,O-2517,Eye Exam,Ray-Ban,Single Vision,1,287.98,True,201.59
+OPT-00094,2025-02-12 18:01:23,O-2987,Glaucoma Screening,Gucci,Single Vision,1,488.11,True,341.68
+OPT-00095,2025-03-18 19:29:03,O-2946,Contact Lens Fitting,Prada,Contact Lenses,1,214.91,True,150.44
+OPT-00096,2025-06-11 05:21:50,O-2450,Eye Exam,Gucci,Bifocal,1,491.59,False,491.59
+OPT-00097,2025-04-26 03:49:37,O-2219,Contact Lens Fitting,Generic,Single Vision,1,392.63,False,392.63
+OPT-00098,2024-12-31 15:08:59,O-2126,Dry Eye Consultation,Ray-Ban,Progressive,1,273.12,False,273.12
+OPT-00099,2025-01-09 20:46:17,O-2721,Glaucoma Screening,Prada,Single Vision,1,87.01,False,87.01
+OPT-00100,2024-12-20 15:18:26,O-2118,Dry Eye Consultation,Oakley,Contact Lenses,1,320.18,False,320.18
+OPT-00101,2025-01-22 14:44:22,O-2703,Dry Eye Consultation,Gucci,Contact Lenses,1,180.77,False,180.77
+OPT-00102,2025-05-11 04:03:55,O-2193,Eye Exam,Generic,Bifocal,1,130.68,False,130.68
+OPT-00103,2025-08-12 22:53:02,O-2688,Eye Exam,Generic,Contact Lenses,1,285.2,True,199.64
+OPT-00104,2025-01-13 15:25:22,O-2122,Contact Lens Fitting,Generic,Contact Lenses,1,362.77,True,253.94
+OPT-00105,2025-04-06 15:12:37,O-2759,Contact Lens Fitting,Ray-Ban,Bifocal,1,488.84,False,488.84
+OPT-00106,2025-01-07 04:11:01,O-2205,Dry Eye Consultation,Ray-Ban,Progressive,1,427.15,False,427.15
+OPT-00107,2024-09-28 13:28:51,O-2285,Glaucoma Screening,Generic,Bifocal,1,264.12,False,264.12
+OPT-00108,2025-02-22 03:43:01,O-2496,Glaucoma Screening,Gucci,Contact Lenses,1,98.62,False,98.62
+OPT-00109,2025-07-31 13:20:50,O-2501,Dry Eye Consultation,Gucci,Progressive,1,63.38,True,44.37
+OPT-00110,2025-03-14 18:36:15,O-2850,Eye Exam,Generic,Single Vision,1,487.43,False,487.43
+OPT-00111,2025-03-06 23:51:33,O-2619,Glaucoma Screening,Gucci,Bifocal,1,329.89,True,230.92
+OPT-00112,2025-01-18 23:54:40,O-2778,Eye Exam,Prada,Contact Lenses,1,406.73,True,284.71
+OPT-00113,2025-06-12 10:39:49,O-2300,Dry Eye Consultation,Generic,Bifocal,1,294.1,True,205.87
+OPT-00114,2024-09-08 20:25:24,O-2975,Eye Exam,Generic,Single Vision,1,222.63,False,222.63
+OPT-00115,2024-09-28 12:29:05,O-2873,Dry Eye Consultation,Generic,Contact Lenses,1,66.19,True,46.33
+OPT-00116,2024-11-09 10:51:12,O-2570,Glaucoma Screening,Gucci,Contact Lenses,1,243.81,False,243.81
+OPT-00117,2024-09-24 17:18:49,O-2732,Dry Eye Consultation,Generic,Single Vision,1,305.98,False,305.98
+OPT-00118,2025-06-22 10:42:55,O-2675,Dry Eye Consultation,Generic,Progressive,1,278.01,False,278.01
+OPT-00119,2025-01-18 08:27:11,O-2269,Dry Eye Consultation,Prada,Contact Lenses,1,327.62,False,327.62
+OPT-00120,2025-01-30 20:53:52,O-2784,Glaucoma Screening,Oakley,Single Vision,1,62.67,True,43.87
+OPT-00121,2025-06-12 03:15:50,O-2131,Glaucoma Screening,Oakley,Single Vision,1,394.34,False,394.34
+OPT-00122,2025-02-24 01:06:50,O-2389,Eye Exam,Generic,Bifocal,1,496.38,False,496.38
+OPT-00123,2024-10-22 22:44:38,O-2359,Eye Exam,Gucci,Progressive,1,155.58,False,155.58
+OPT-00124,2024-11-13 08:44:28,O-2606,Eye Exam,Ray-Ban,Bifocal,1,101.51,True,71.06
+OPT-00125,2025-08-03 21:02:02,O-2020,Glaucoma Screening,Ray-Ban,Contact Lenses,1,346.0,False,346.0
+OPT-00126,2024-09-26 03:07:06,O-2581,Dry Eye Consultation,Oakley,Single Vision,1,363.18,True,254.23
+OPT-00127,2025-06-10 22:26:13,O-2324,Dry Eye Consultation,Prada,Contact Lenses,1,195.09,True,136.56
+OPT-00128,2024-10-06 02:46:54,O-2827,Dry Eye Consultation,Ray-Ban,Progressive,1,201.19,False,201.19
+OPT-00129,2024-11-14 10:14:25,O-2170,Glaucoma Screening,Oakley,Contact Lenses,1,140.79,True,98.55
+OPT-00130,2025-03-25 04:56:58,O-2860,Contact Lens Fitting,Oakley,Bifocal,1,71.39,False,71.39
+OPT-00131,2025-03-18 19:56:41,O-2823,Contact Lens Fitting,Prada,Single Vision,1,372.97,True,261.08
+OPT-00132,2025-01-22 01:48:12,O-2606,Glaucoma Screening,Oakley,Single Vision,1,304.89,False,304.89
+OPT-00133,2024-12-22 18:43:05,O-2437,Contact Lens Fitting,Oakley,Single Vision,1,343.19,False,343.19
+OPT-00134,2024-12-06 18:36:58,O-2516,Glaucoma Screening,Generic,Bifocal,1,140.03,False,140.03
+OPT-00135,2025-07-18 07:38:34,O-2257,Dry Eye Consultation,Prada,Progressive,1,446.4,True,312.48
+OPT-00136,2024-11-05 07:59:45,O-2590,Dry Eye Consultation,Gucci,Contact Lenses,1,170.57,False,170.57
+OPT-00137,2024-12-23 14:06:13,O-2957,Eye Exam,Prada,Progressive,1,213.92,True,149.74
+OPT-00138,2025-07-03 16:32:32,O-2246,Contact Lens Fitting,Oakley,Contact Lenses,1,234.62,True,164.23
+OPT-00139,2025-07-05 02:59:55,O-2649,Contact Lens Fitting,Generic,Bifocal,1,420.67,True,294.47
+OPT-00140,2025-03-10 07:22:57,O-2262,Contact Lens Fitting,Generic,Progressive,1,101.1,True,70.77
+OPT-00141,2024-08-30 22:44:57,O-2028,Contact Lens Fitting,Oakley,Contact Lenses,1,268.42,False,268.42
+OPT-00142,2024-10-08 01:09:57,O-2432,Eye Exam,Gucci,Progressive,1,172.72,True,120.9
+OPT-00143,2024-10-07 02:53:46,O-2264,Glaucoma Screening,Prada,Progressive,1,339.93,True,237.95
+OPT-00144,2025-03-05 17:09:50,O-2986,Dry Eye Consultation,Ray-Ban,Single Vision,1,436.81,True,305.77
+OPT-00145,2024-11-06 07:41:15,O-2321,Glaucoma Screening,Ray-Ban,Contact Lenses,1,453.55,True,317.49
+OPT-00146,2025-01-24 08:13:58,O-2406,Contact Lens Fitting,Gucci,Single Vision,1,306.94,True,214.86
+OPT-00147,2024-12-08 15:27:27,O-2534,Glaucoma Screening,Generic,Single Vision,1,157.13,True,109.99
+OPT-00148,2024-11-05 17:05:17,O-2791,Glaucoma Screening,Oakley,Contact Lenses,1,412.63,True,288.84
+OPT-00149,2024-11-22 14:46:35,O-2957,Dry Eye Consultation,Gucci,Progressive,1,98.07,True,68.65
+OPT-00150,2025-05-30 04:02:23,O-2993,Glaucoma Screening,Generic,Contact Lenses,1,164.44,True,115.11
+OPT-00151,2025-02-19 23:59:15,O-2502,Glaucoma Screening,Ray-Ban,Bifocal,1,295.59,False,295.59
+OPT-00152,2025-01-07 15:38:25,O-2699,Contact Lens Fitting,Oakley,Progressive,1,213.35,False,213.35
+OPT-00153,2025-08-05 02:05:03,O-2841,Glaucoma Screening,Ray-Ban,Single Vision,1,428.66,True,300.06
+OPT-00154,2025-01-08 05:35:17,O-2707,Contact Lens Fitting,Oakley,Contact Lenses,1,189.17,False,189.17
+OPT-00155,2024-12-27 15:29:32,O-2924,Eye Exam,Prada,Progressive,1,435.94,False,435.94
+OPT-00156,2025-01-01 03:27:21,O-2008,Dry Eye Consultation,Oakley,Bifocal,1,90.61,True,63.43
+OPT-00157,2024-11-09 11:31:03,O-2304,Contact Lens Fitting,Gucci,Contact Lenses,1,334.11,False,334.11
+OPT-00158,2025-05-28 01:56:42,O-2808,Eye Exam,Oakley,Single Vision,1,420.44,False,420.44
+OPT-00159,2025-04-28 20:56:49,O-2482,Dry Eye Consultation,Oakley,Contact Lenses,1,444.54,True,311.18
+OPT-00160,2025-06-02 14:41:30,O-2844,Contact Lens Fitting,Oakley,Single Vision,1,208.34,False,208.34
+OPT-00161,2025-04-16 12:41:29,O-2464,Eye Exam,Ray-Ban,Progressive,1,333.57,True,233.5
+OPT-00162,2024-09-09 07:39:35,O-2003,Dry Eye Consultation,Gucci,Bifocal,1,191.17,True,133.82
+OPT-00163,2024-09-04 02:12:38,O-2113,Contact Lens Fitting,Gucci,Progressive,1,431.13,False,431.13
+OPT-00164,2025-07-23 16:58:19,O-2811,Glaucoma Screening,Generic,Contact Lenses,1,443.08,True,310.16
+OPT-00165,2024-10-11 00:24:28,O-2266,Contact Lens Fitting,Prada,Bifocal,1,409.79,True,286.85
+OPT-00166,2024-10-13 11:24:37,O-2086,Dry Eye Consultation,Oakley,Progressive,1,227.07,False,227.07
+OPT-00167,2025-08-23 16:00:31,O-2967,Contact Lens Fitting,Ray-Ban,Single Vision,1,465.4,True,325.78
+OPT-00168,2025-08-11 09:29:09,O-2928,Eye Exam,Generic,Progressive,1,167.8,True,117.46
+OPT-00169,2025-04-06 15:16:44,O-2050,Dry Eye Consultation,Prada,Contact Lenses,1,320.18,True,224.13
+OPT-00170,2024-12-06 12:08:12,O-2091,Glaucoma Screening,Gucci,Single Vision,1,56.35,False,56.35
+OPT-00171,2024-12-04 20:49:58,O-2791,Dry Eye Consultation,Generic,Single Vision,1,151.02,True,105.71
+OPT-00172,2025-06-16 22:55:02,O-2195,Glaucoma Screening,Oakley,Contact Lenses,1,221.93,False,221.93
+OPT-00173,2025-04-28 07:21:11,O-2876,Contact Lens Fitting,Prada,Progressive,1,497.84,False,497.84
+OPT-00174,2024-12-31 16:52:34,O-2744,Contact Lens Fitting,Generic,Progressive,1,233.84,True,163.69
+OPT-00175,2025-01-23 15:29:33,O-2029,Glaucoma Screening,Oakley,Progressive,1,327.96,True,229.57
+OPT-00176,2024-12-25 20:33:05,O-2378,Dry Eye Consultation,Ray-Ban,Single Vision,1,261.0,False,261.0
+OPT-00177,2025-04-11 22:16:08,O-2997,Dry Eye Consultation,Gucci,Contact Lenses,1,368.8,False,368.8
+OPT-00178,2025-07-03 17:05:04,O-2074,Eye Exam,Prada,Single Vision,1,73.45,True,51.41
+OPT-00179,2025-02-01 00:05:27,O-2482,Glaucoma Screening,Prada,Single Vision,1,52.41,False,52.41
+OPT-00180,2024-09-16 03:32:55,O-2309,Dry Eye Consultation,Oakley,Progressive,1,485.63,True,339.94
+OPT-00181,2025-02-15 15:14:58,O-2594,Contact Lens Fitting,Oakley,Progressive,1,276.69,False,276.69
+OPT-00182,2025-03-20 05:47:57,O-2898,Dry Eye Consultation,Gucci,Single Vision,1,192.79,False,192.79
+OPT-00183,2025-08-04 16:53:26,O-2145,Glaucoma Screening,Ray-Ban,Bifocal,1,69.87,True,48.91
+OPT-00184,2024-10-12 13:05:37,O-2511,Glaucoma Screening,Oakley,Contact Lenses,1,177.32,False,177.32
+OPT-00185,2025-04-18 12:57:04,O-2627,Glaucoma Screening,Prada,Bifocal,1,246.1,True,172.27
+OPT-00186,2025-08-02 15:20:23,O-2323,Dry Eye Consultation,Gucci,Contact Lenses,1,73.95,True,51.77
+OPT-00187,2025-03-20 14:38:05,O-2055,Contact Lens Fitting,Gucci,Single Vision,1,261.61,True,183.13
+OPT-00188,2025-05-10 14:35:01,O-2722,Dry Eye Consultation,Generic,Single Vision,1,497.84,False,497.84
+OPT-00189,2025-03-28 02:09:17,O-2041,Dry Eye Consultation,Oakley,Contact Lenses,1,255.99,True,179.19
+OPT-00190,2025-08-07 12:24:53,O-2866,Contact Lens Fitting,Ray-Ban,Bifocal,1,92.11,False,92.11
+OPT-00191,2024-12-01 17:32:52,O-2184,Contact Lens Fitting,Prada,Bifocal,1,303.46,True,212.42
+OPT-00192,2024-09-07 23:16:00,O-2597,Eye Exam,Prada,Progressive,1,237.39,True,166.17
+OPT-00193,2025-07-18 12:32:12,O-2252,Dry Eye Consultation,Ray-Ban,Bifocal,1,61.68,True,43.18
+OPT-00194,2025-05-20 10:44:27,O-2403,Glaucoma Screening,Prada,Single Vision,1,426.64,True,298.65
+OPT-00195,2025-05-07 14:38:01,O-2029,Eye Exam,Generic,Contact Lenses,1,254.32,False,254.32
+OPT-00196,2025-06-11 12:17:13,O-2608,Eye Exam,Oakley,Single Vision,1,345.28,False,345.28
+OPT-00197,2025-06-22 21:00:14,O-2332,Contact Lens Fitting,Gucci,Single Vision,1,410.7,False,410.7
+OPT-00198,2025-08-11 06:27:01,O-2330,Eye Exam,Ray-Ban,Contact Lenses,1,91.65,False,91.65
+OPT-00199,2024-08-29 06:05:52,O-2182,Contact Lens Fitting,Generic,Single Vision,1,59.23,True,41.46
+OPT-00200,2025-06-04 05:54:04,O-2166,Dry Eye Consultation,Generic,Bifocal,1,341.23,True,238.86
+OPT-00201,2025-07-17 22:34:38,O-2123,Glaucoma Screening,Generic,Contact Lenses,1,381.15,False,381.15
+OPT-00202,2025-01-18 22:14:42,O-2925,Contact Lens Fitting,Oakley,Single Vision,1,424.42,True,297.09
+OPT-00203,2024-12-09 09:43:36,O-2501,Dry Eye Consultation,Generic,Contact Lenses,1,170.82,False,170.82
+OPT-00204,2024-10-25 14:15:07,O-2092,Dry Eye Consultation,Oakley,Progressive,1,245.35,False,245.35
+OPT-00205,2024-09-02 23:29:14,O-2095,Eye Exam,Prada,Bifocal,1,487.97,True,341.58
+OPT-00206,2025-04-18 09:47:28,O-2663,Contact Lens Fitting,Generic,Single Vision,1,180.82,False,180.82
+OPT-00207,2025-05-30 01:13:46,O-2081,Dry Eye Consultation,Oakley,Progressive,1,492.88,False,492.88
+OPT-00208,2025-04-02 22:14:14,O-2861,Contact Lens Fitting,Prada,Contact Lenses,1,182.97,True,128.08
+OPT-00209,2024-11-23 10:02:09,O-2564,Eye Exam,Ray-Ban,Single Vision,1,279.79,False,279.79
+OPT-00210,2025-03-07 15:02:12,O-2096,Dry Eye Consultation,Prada,Bifocal,1,209.96,True,146.97
+OPT-00211,2024-09-02 14:57:21,O-2787,Eye Exam,Ray-Ban,Contact Lenses,1,130.8,True,91.56
+OPT-00212,2024-09-24 13:50:54,O-2863,Dry Eye Consultation,Ray-Ban,Single Vision,1,237.31,False,237.31
+OPT-00213,2025-02-09 13:22:12,O-2321,Dry Eye Consultation,Generic,Bifocal,1,203.6,True,142.52
+OPT-00214,2025-03-31 03:58:34,O-2216,Contact Lens Fitting,Ray-Ban,Bifocal,1,442.23,True,309.56
+OPT-00215,2024-12-14 08:35:27,O-2444,Eye Exam,Ray-Ban,Contact Lenses,1,102.51,True,71.76
+OPT-00216,2025-06-15 17:43:21,O-2671,Dry Eye Consultation,Generic,Contact Lenses,1,440.95,False,440.95
+OPT-00217,2025-04-12 16:11:41,O-2310,Glaucoma Screening,Generic,Bifocal,1,89.44,True,62.61
+OPT-00218,2025-01-04 15:08:46,O-2014,Contact Lens Fitting,Ray-Ban,Single Vision,1,363.21,True,254.25
+OPT-00219,2025-05-08 17:06:21,O-2879,Eye Exam,Gucci,Contact Lenses,1,341.88,True,239.32
+OPT-00220,2024-11-17 13:11:20,O-2446,Contact Lens Fitting,Ray-Ban,Bifocal,1,396.37,True,277.46
+OPT-00221,2025-05-22 00:01:40,O-2485,Dry Eye Consultation,Ray-Ban,Single Vision,1,124.75,True,87.32
+OPT-00222,2024-11-10 16:03:19,O-2756,Dry Eye Consultation,Generic,Contact Lenses,1,58.83,False,58.83
+OPT-00223,2025-08-21 09:57:01,O-2599,Contact Lens Fitting,Gucci,Bifocal,1,306.24,False,306.24
+OPT-00224,2025-06-20 00:49:29,O-2052,Glaucoma Screening,Ray-Ban,Single Vision,1,333.68,False,333.68
+OPT-00225,2024-09-25 06:24:55,O-2425,Dry Eye Consultation,Prada,Bifocal,1,66.66,False,66.66
+OPT-00226,2025-03-12 10:17:33,O-2497,Dry Eye Consultation,Gucci,Single Vision,1,287.74,False,287.74
+OPT-00227,2025-05-07 19:50:52,O-2590,Glaucoma Screening,Prada,Single Vision,1,170.53,False,170.53
+OPT-00228,2025-08-16 07:46:43,O-2910,Dry Eye Consultation,Ray-Ban,Contact Lenses,1,330.21,False,330.21
+OPT-00229,2024-12-06 01:57:49,O-2459,Dry Eye Consultation,Ray-Ban,Progressive,1,179.6,True,125.72
+OPT-00230,2025-05-24 23:23:11,O-2480,Glaucoma Screening,Generic,Progressive,1,278.44,False,278.44
+OPT-00231,2025-03-28 07:57:52,O-2943,Dry Eye Consultation,Gucci,Bifocal,1,375.35,False,375.35
+OPT-00232,2025-08-22 21:13:55,O-2982,Dry Eye Consultation,Oakley,Contact Lenses,1,409.89,True,286.92
+OPT-00233,2024-12-28 08:57:31,O-2636,Contact Lens Fitting,Oakley,Single Vision,1,350.18,True,245.13
+OPT-00234,2025-04-30 04:58:10,O-2177,Contact Lens Fitting,Gucci,Contact Lenses,1,95.41,False,95.41
+OPT-00235,2024-10-24 06:40:50,O-2965,Dry Eye Consultation,Oakley,Progressive,1,144.24,True,100.97
+OPT-00236,2025-08-19 08:37:38,O-2018,Glaucoma Screening,Oakley,Bifocal,1,354.62,True,248.23
+OPT-00237,2024-12-28 17:41:04,O-2847,Eye Exam,Ray-Ban,Bifocal,1,243.78,True,170.65
+OPT-00238,2024-12-01 04:29:43,O-2123,Contact Lens Fitting,Generic,Bifocal,1,497.15,False,497.15
+OPT-00239,2025-07-30 11:19:24,O-2787,Eye Exam,Prada,Bifocal,1,453.34,True,317.34
+OPT-00240,2025-02-15 18:27:50,O-2723,Eye Exam,Generic,Contact Lenses,1,483.19,True,338.23
+OPT-00241,2025-06-11 01:27:57,O-2998,Eye Exam,Prada,Single Vision,1,420.62,True,294.43
+OPT-00242,2025-05-04 14:20:52,O-2519,Eye Exam,Gucci,Single Vision,1,441.89,False,441.89
+OPT-00243,2025-01-28 06:12:31,O-2160,Glaucoma Screening,Generic,Contact Lenses,1,379.65,True,265.75
+OPT-00244,2025-05-08 00:14:01,O-2157,Glaucoma Screening,Oakley,Progressive,1,105.34,True,73.74
+OPT-00245,2025-02-12 20:21:10,O-2449,Dry Eye Consultation,Ray-Ban,Progressive,1,425.67,False,425.67
+OPT-00246,2025-02-02 05:39:34,O-2349,Glaucoma Screening,Prada,Progressive,1,88.36,False,88.36
+OPT-00247,2025-07-13 04:28:20,O-2732,Dry Eye Consultation,Oakley,Progressive,1,118.23,False,118.23
+OPT-00248,2024-09-17 23:07:31,O-2806,Contact Lens Fitting,Gucci,Contact Lenses,1,236.03,False,236.03
+OPT-00249,2025-02-07 01:13:26,O-2919,Dry Eye Consultation,Prada,Bifocal,1,474.68,False,474.68
+OPT-00250,2024-09-20 00:17:17,O-2149,Eye Exam,Prada,Single Vision,1,88.15,False,88.15
+OPT-00251,2024-08-29 13:47:26,O-2411,Contact Lens Fitting,Generic,Single Vision,1,226.97,True,158.88
+OPT-00252,2025-05-18 20:22:27,O-2676,Contact Lens Fitting,Prada,Single Vision,1,489.98,False,489.98
+OPT-00253,2025-05-24 19:07:27,O-2429,Dry Eye Consultation,Prada,Bifocal,1,374.7,False,374.7
+OPT-00254,2025-05-17 19:48:38,O-2931,Glaucoma Screening,Ray-Ban,Bifocal,1,455.09,True,318.56
+OPT-00255,2025-01-11 12:45:01,O-2717,Dry Eye Consultation,Generic,Progressive,1,449.41,False,449.41
+OPT-00256,2024-10-09 04:04:49,O-2714,Glaucoma Screening,Generic,Progressive,1,446.44,True,312.51
+OPT-00257,2024-09-07 05:37:29,O-2037,Glaucoma Screening,Generic,Progressive,1,284.21,False,284.21
+OPT-00258,2024-12-17 23:12:10,O-2218,Eye Exam,Prada,Bifocal,1,284.6,True,199.22
+OPT-00259,2025-03-19 09:19:35,O-2023,Eye Exam,Prada,Bifocal,1,158.6,False,158.6
+OPT-00260,2024-10-19 17:08:27,O-2743,Dry Eye Consultation,Prada,Single Vision,1,379.39,False,379.39
+OPT-00261,2024-12-11 03:49:44,O-2265,Glaucoma Screening,Ray-Ban,Single Vision,1,390.45,True,273.31
+OPT-00262,2024-09-06 07:43:28,O-2459,Glaucoma Screening,Prada,Single Vision,1,253.92,True,177.74
+OPT-00263,2024-09-02 20:03:58,O-2824,Contact Lens Fitting,Oakley,Bifocal,1,178.04,True,124.63
+OPT-00264,2024-09-07 17:18:03,O-2731,Dry Eye Consultation,Prada,Progressive,1,97.35,True,68.14
+OPT-00265,2024-08-27 15:01:45,O-2842,Glaucoma Screening,Generic,Single Vision,1,115.95,False,115.95
+OPT-00266,2025-07-19 16:51:54,O-2848,Dry Eye Consultation,Ray-Ban,Single Vision,1,77.99,True,54.59
+OPT-00267,2025-03-22 03:19:12,O-2487,Contact Lens Fitting,Generic,Single Vision,1,216.18,False,216.18
+OPT-00268,2024-09-29 21:48:25,O-2602,Dry Eye Consultation,Oakley,Contact Lenses,1,336.41,False,336.41
+OPT-00269,2025-06-11 18:37:41,O-2705,Dry Eye Consultation,Generic,Progressive,1,114.96,True,80.47
+OPT-00270,2025-03-24 06:20:05,O-2496,Dry Eye Consultation,Gucci,Single Vision,1,362.51,False,362.51
+OPT-00271,2024-10-03 04:45:44,O-2484,Eye Exam,Gucci,Bifocal,1,464.76,True,325.33
+OPT-00272,2025-06-08 08:27:58,O-2616,Dry Eye Consultation,Ray-Ban,Single Vision,1,216.31,False,216.31
+OPT-00273,2024-12-28 22:15:08,O-2041,Contact Lens Fitting,Ray-Ban,Bifocal,1,187.22,False,187.22
+OPT-00274,2024-09-15 21:40:43,O-2310,Glaucoma Screening,Generic,Single Vision,1,406.04,True,284.23
+OPT-00275,2025-05-08 07:00:38,O-2802,Dry Eye Consultation,Ray-Ban,Bifocal,1,450.08,True,315.06
+OPT-00276,2025-04-07 01:11:07,O-2187,Dry Eye Consultation,Ray-Ban,Single Vision,1,296.39,True,207.47
+OPT-00277,2024-11-30 02:21:56,O-2891,Eye Exam,Generic,Contact Lenses,1,307.88,False,307.88
+OPT-00278,2024-09-16 15:41:40,O-2921,Glaucoma Screening,Generic,Contact Lenses,1,425.51,True,297.86
+OPT-00279,2024-12-06 00:33:08,O-2780,Contact Lens Fitting,Prada,Contact Lenses,1,392.76,False,392.76
+OPT-00280,2025-02-19 19:55:49,O-2152,Glaucoma Screening,Ray-Ban,Contact Lenses,1,224.26,False,224.26
+OPT-00281,2025-02-16 03:19:05,O-2347,Eye Exam,Generic,Bifocal,1,340.66,True,238.46
+OPT-00282,2024-10-07 17:43:52,O-2724,Eye Exam,Prada,Bifocal,1,302.47,True,211.73
+OPT-00283,2024-12-19 06:59:32,O-2659,Eye Exam,Gucci,Single Vision,1,480.78,True,336.55
+OPT-00284,2025-02-16 13:10:32,O-2768,Dry Eye Consultation,Prada,Single Vision,1,104.13,True,72.89
+OPT-00285,2025-01-19 22:15:21,O-2985,Eye Exam,Oakley,Progressive,1,160.38,False,160.38
+OPT-00286,2025-04-20 08:42:49,O-2086,Glaucoma Screening,Generic,Single Vision,1,271.16,True,189.81
+OPT-00287,2025-04-11 08:55:02,O-2348,Dry Eye Consultation,Gucci,Contact Lenses,1,60.83,False,60.83
+OPT-00288,2025-05-07 12:23:40,O-2391,Glaucoma Screening,Ray-Ban,Single Vision,1,490.9,True,343.63
+OPT-00289,2024-11-22 07:57:56,O-2292,Contact Lens Fitting,Gucci,Bifocal,1,395.74,True,277.02
+OPT-00290,2025-01-31 07:08:28,O-2314,Dry Eye Consultation,Gucci,Single Vision,1,326.51,False,326.51
+OPT-00291,2025-04-28 01:28:43,O-2185,Eye Exam,Ray-Ban,Bifocal,1,225.47,False,225.47
+OPT-00292,2025-03-12 16:17:35,O-2145,Dry Eye Consultation,Oakley,Bifocal,1,218.98,True,153.29
+OPT-00293,2024-12-28 17:54:12,O-2053,Contact Lens Fitting,Gucci,Progressive,1,271.84,False,271.84
+OPT-00294,2025-03-06 13:41:50,O-2972,Eye Exam,Oakley,Single Vision,1,193.25,False,193.25
+OPT-00295,2025-08-20 19:56:52,O-2067,Dry Eye Consultation,Ray-Ban,Contact Lenses,1,335.09,True,234.56
+OPT-00296,2024-12-27 07:33:02,O-2275,Eye Exam,Gucci,Progressive,1,187.08,False,187.08
+OPT-00297,2025-04-15 16:30:30,O-2456,Eye Exam,Prada,Progressive,1,402.3,True,281.61
+OPT-00298,2025-04-18 22:45:55,O-2382,Contact Lens Fitting,Gucci,Contact Lenses,1,482.61,False,482.61
+OPT-00299,2025-01-01 21:51:39,O-2042,Eye Exam,Generic,Bifocal,1,343.88,True,240.72
+OPT-00300,2025-04-23 13:18:13,O-2000,Eye Exam,Generic,Bifocal,1,319.04,False,319.04
+OPT-00301,2025-01-11 12:48:14,O-2359,Contact Lens Fitting,Prada,Bifocal,1,70.47,True,49.33
+OPT-00302,2025-01-09 19:07:16,O-2307,Eye Exam,Generic,Single Vision,1,423.72,False,423.72
+OPT-00303,2025-06-22 02:45:54,O-2899,Dry Eye Consultation,Gucci,Bifocal,1,447.77,False,447.77
+OPT-00304,2024-10-20 10:14:21,O-2650,Glaucoma Screening,Generic,Bifocal,1,160.67,False,160.67
+OPT-00305,2024-12-01 03:01:07,O-2349,Contact Lens Fitting,Generic,Bifocal,1,57.14,True,40.0
+OPT-00306,2025-06-11 02:10:24,O-2661,Eye Exam,Prada,Contact Lenses,1,51.93,True,36.35
+OPT-00307,2024-12-02 12:45:51,O-2688,Contact Lens Fitting,Generic,Contact Lenses,1,393.11,True,275.18
+OPT-00308,2025-05-15 07:54:23,O-2806,Eye Exam,Prada,Single Vision,1,451.66,False,451.66
+OPT-00309,2025-05-03 22:52:20,O-2688,Eye Exam,Oakley,Contact Lenses,1,422.36,False,422.36
+OPT-00310,2025-03-14 21:58:45,O-2396,Contact Lens Fitting,Ray-Ban,Single Vision,1,258.21,True,180.75
+OPT-00311,2024-12-17 16:49:26,O-2455,Eye Exam,Gucci,Single Vision,1,391.29,False,391.29
+OPT-00312,2025-04-02 07:39:30,O-2196,Eye Exam,Prada,Bifocal,1,413.79,True,289.65
+OPT-00313,2025-01-24 23:17:34,O-2239,Dry Eye Consultation,Oakley,Single Vision,1,176.34,True,123.44
+OPT-00314,2025-01-12 13:23:19,O-2007,Contact Lens Fitting,Generic,Single Vision,1,441.46,False,441.46
+OPT-00315,2025-08-13 17:02:15,O-2174,Contact Lens Fitting,Prada,Progressive,1,79.41,True,55.59
+OPT-00316,2025-01-12 12:42:00,O-2763,Eye Exam,Gucci,Bifocal,1,470.1,True,329.07
+OPT-00317,2025-04-23 11:47:54,O-2902,Glaucoma Screening,Gucci,Single Vision,1,496.38,False,496.38
+OPT-00318,2024-12-18 22:55:16,O-2697,Dry Eye Consultation,Ray-Ban,Contact Lenses,1,338.43,True,236.9
+OPT-00319,2025-07-17 22:46:34,O-2874,Glaucoma Screening,Generic,Contact Lenses,1,173.32,False,173.32
+OPT-00320,2025-06-08 14:30:36,O-2507,Glaucoma Screening,Prada,Single Vision,1,447.71,True,313.4
+OPT-00321,2025-03-18 10:06:49,O-2048,Glaucoma Screening,Generic,Contact Lenses,1,192.31,False,192.31
+OPT-00322,2024-11-15 05:02:33,O-2199,Glaucoma Screening,Ray-Ban,Single Vision,1,495.62,True,346.93
+OPT-00323,2025-05-25 23:11:16,O-2706,Dry Eye Consultation,Ray-Ban,Progressive,1,138.59,False,138.59
+OPT-00324,2025-03-18 12:22:49,O-2318,Eye Exam,Ray-Ban,Single Vision,1,265.98,True,186.19
+OPT-00325,2024-10-25 03:53:52,O-2606,Glaucoma Screening,Oakley,Progressive,1,98.53,True,68.97
+OPT-00326,2025-02-21 02:22:30,O-2981,Glaucoma Screening,Ray-Ban,Bifocal,1,283.85,True,198.69
+OPT-00327,2025-04-07 14:58:03,O-2966,Eye Exam,Prada,Contact Lenses,1,393.84,False,393.84
+OPT-00328,2025-03-14 08:30:27,O-2592,Eye Exam,Ray-Ban,Single Vision,1,462.52,False,462.52
+OPT-00329,2025-05-01 20:02:11,O-2320,Eye Exam,Gucci,Single Vision,1,463.6,False,463.6
+OPT-00330,2025-04-24 05:04:09,O-2056,Glaucoma Screening,Prada,Contact Lenses,1,79.61,True,55.73
+OPT-00331,2025-01-25 20:35:38,O-2572,Eye Exam,Oakley,Contact Lenses,1,230.76,False,230.76
+OPT-00332,2025-06-11 02:24:56,O-2238,Eye Exam,Generic,Contact Lenses,1,258.89,False,258.89
+OPT-00333,2024-09-28 19:36:18,O-2901,Eye Exam,Oakley,Single Vision,1,254.33,False,254.33
+OPT-00334,2024-10-21 02:27:43,O-2601,Contact Lens Fitting,Ray-Ban,Single Vision,1,55.53,True,38.87
+OPT-00335,2024-11-05 21:34:08,O-2607,Contact Lens Fitting,Prada,Progressive,1,336.81,False,336.81
+OPT-00336,2025-06-24 16:08:05,O-2363,Dry Eye Consultation,Generic,Contact Lenses,1,133.67,True,93.57
+OPT-00337,2024-09-05 10:17:20,O-2816,Eye Exam,Ray-Ban,Progressive,1,190.25,False,190.25
+OPT-00338,2025-04-13 09:20:06,O-2525,Glaucoma Screening,Oakley,Progressive,1,116.33,False,116.33
+OPT-00339,2024-11-03 11:00:58,O-2617,Glaucoma Screening,Oakley,Bifocal,1,486.62,True,340.63
+OPT-00340,2025-02-20 02:48:41,O-2058,Contact Lens Fitting,Prada,Single Vision,1,239.93,True,167.95
+OPT-00341,2025-07-24 16:08:06,O-2999,Contact Lens Fitting,Gucci,Single Vision,1,203.7,False,203.7
+OPT-00342,2024-11-17 03:01:40,O-2711,Dry Eye Consultation,Prada,Bifocal,1,433.4,False,433.4
+OPT-00343,2025-08-17 15:04:48,O-2630,Glaucoma Screening,Generic,Bifocal,1,123.03,False,123.03
+OPT-00344,2025-08-06 19:18:54,O-2897,Eye Exam,Generic,Progressive,1,463.98,True,324.79
+OPT-00345,2025-02-26 20:10:00,O-2709,Contact Lens Fitting,Generic,Progressive,1,157.56,False,157.56
+OPT-00346,2025-01-19 19:48:39,O-2826,Dry Eye Consultation,Gucci,Contact Lenses,1,132.91,True,93.04
+OPT-00347,2024-12-16 19:19:11,O-2371,Eye Exam,Ray-Ban,Bifocal,1,63.51,True,44.46
+OPT-00348,2025-05-06 08:51:35,O-2145,Glaucoma Screening,Generic,Progressive,1,334.1,False,334.1
+OPT-00349,2025-07-14 23:09:47,O-2044,Eye Exam,Gucci,Progressive,1,177.85,True,124.49
+OPT-00350,2025-02-01 14:34:49,O-2906,Glaucoma Screening,Gucci,Bifocal,1,431.39,True,301.97
+OPT-00351,2025-01-25 19:26:52,O-2182,Contact Lens Fitting,Ray-Ban,Progressive,1,429.3,True,300.51
+OPT-00352,2025-06-06 02:47:10,O-2021,Contact Lens Fitting,Generic,Single Vision,1,202.27,True,141.59
+OPT-00353,2025-05-07 23:22:34,O-2312,Dry Eye Consultation,Gucci,Bifocal,1,414.27,True,289.99
+OPT-00354,2024-12-02 22:49:18,O-2963,Dry Eye Consultation,Ray-Ban,Single Vision,1,114.99,True,80.49
+OPT-00355,2024-11-21 01:10:34,O-2813,Contact Lens Fitting,Gucci,Contact Lenses,1,362.46,False,362.46
+OPT-00356,2025-06-24 19:34:20,O-2613,Dry Eye Consultation,Gucci,Single Vision,1,393.39,True,275.37
+OPT-00357,2025-03-08 08:04:26,O-2874,Glaucoma Screening,Gucci,Bifocal,1,161.23,False,161.23
+OPT-00358,2024-09-26 13:04:54,O-2893,Contact Lens Fitting,Prada,Contact Lenses,1,144.16,True,100.91
+OPT-00359,2025-02-21 10:24:23,O-2803,Dry Eye Consultation,Prada,Single Vision,1,125.35,False,125.35
+OPT-00360,2024-12-30 02:55:31,O-2769,Glaucoma Screening,Generic,Contact Lenses,1,130.55,False,130.55
+OPT-00361,2025-06-05 18:43:26,O-2538,Dry Eye Consultation,Generic,Contact Lenses,1,170.75,False,170.75
+OPT-00362,2025-07-16 16:46:23,O-2653,Eye Exam,Gucci,Progressive,1,452.7,False,452.7
+OPT-00363,2025-04-11 21:09:47,O-2883,Contact Lens Fitting,Generic,Progressive,1,187.7,False,187.7
+OPT-00364,2025-03-11 10:48:12,O-2585,Contact Lens Fitting,Oakley,Bifocal,1,297.75,True,208.42
+OPT-00365,2025-08-08 00:26:43,O-2769,Eye Exam,Oakley,Contact Lenses,1,283.47,True,198.43
+OPT-00366,2025-07-02 20:43:13,O-2597,Eye Exam,Generic,Bifocal,1,241.75,False,241.75
+OPT-00367,2024-10-23 22:30:48,O-2442,Dry Eye Consultation,Oakley,Contact Lenses,1,192.66,False,192.66
+OPT-00368,2025-04-02 15:39:26,O-2025,Contact Lens Fitting,Generic,Progressive,1,169.53,True,118.67
+OPT-00369,2025-01-14 16:04:50,O-2367,Eye Exam,Oakley,Single Vision,1,403.64,True,282.55
+OPT-00370,2024-11-17 05:55:17,O-2100,Eye Exam,Ray-Ban,Bifocal,1,67.23,True,47.06
+OPT-00371,2024-09-03 03:34:53,O-2341,Contact Lens Fitting,Oakley,Bifocal,1,186.22,False,186.22
+OPT-00372,2025-02-13 07:52:07,O-2195,Contact Lens Fitting,Prada,Bifocal,1,53.84,False,53.84
+OPT-00373,2025-07-13 04:18:11,O-2288,Glaucoma Screening,Generic,Contact Lenses,1,419.84,True,293.89
+OPT-00374,2024-11-10 23:08:41,O-2483,Contact Lens Fitting,Generic,Progressive,1,152.12,True,106.48
+OPT-00375,2024-10-07 07:25:14,O-2485,Contact Lens Fitting,Prada,Contact Lenses,1,375.13,False,375.13
+OPT-00376,2024-11-12 23:55:19,O-2348,Eye Exam,Oakley,Progressive,1,242.96,False,242.96
+OPT-00377,2025-03-29 05:45:38,O-2214,Dry Eye Consultation,Generic,Single Vision,1,218.62,True,153.03
+OPT-00378,2025-02-19 12:13:40,O-2312,Eye Exam,Generic,Bifocal,1,202.92,False,202.92
+OPT-00379,2024-08-27 22:23:13,O-2435,Dry Eye Consultation,Prada,Bifocal,1,196.74,True,137.72
+OPT-00380,2025-02-10 05:55:04,O-2581,Eye Exam,Gucci,Progressive,1,489.76,False,489.76
+OPT-00381,2025-03-12 08:03:37,O-2581,Dry Eye Consultation,Generic,Progressive,1,476.91,True,333.84
+OPT-00382,2025-07-03 10:11:43,O-2547,Dry Eye Consultation,Gucci,Contact Lenses,1,98.89,False,98.89
+OPT-00383,2025-02-17 13:31:08,O-2654,Glaucoma Screening,Ray-Ban,Progressive,1,96.94,True,67.86
+OPT-00384,2024-10-24 20:35:13,O-2032,Dry Eye Consultation,Ray-Ban,Progressive,1,139.55,False,139.55
+OPT-00385,2024-10-02 06:16:10,O-2290,Contact Lens Fitting,Gucci,Bifocal,1,346.81,True,242.77
+OPT-00386,2025-07-26 10:44:00,O-2465,Eye Exam,Oakley,Single Vision,1,127.32,False,127.32
+OPT-00387,2025-02-24 11:28:52,O-2400,Contact Lens Fitting,Ray-Ban,Progressive,1,291.4,False,291.4
+OPT-00388,2025-03-31 21:29:26,O-2760,Eye Exam,Generic,Progressive,1,108.47,True,75.93
+OPT-00389,2024-09-07 15:03:45,O-2317,Dry Eye Consultation,Generic,Progressive,1,321.67,False,321.67
+OPT-00390,2025-06-16 18:22:31,O-2601,Contact Lens Fitting,Prada,Contact Lenses,1,173.95,True,121.76
+OPT-00391,2025-07-07 18:49:04,O-2146,Dry Eye Consultation,Ray-Ban,Contact Lenses,1,322.18,True,225.53
+OPT-00392,2025-07-09 22:30:06,O-2538,Glaucoma Screening,Prada,Contact Lenses,1,257.09,True,179.96
+OPT-00393,2025-04-12 16:27:42,O-2754,Eye Exam,Oakley,Contact Lenses,1,206.05,False,206.05
+OPT-00394,2025-04-26 14:09:12,O-2400,Contact Lens Fitting,Generic,Progressive,1,130.81,False,130.81
+OPT-00395,2024-09-24 01:17:11,O-2468,Dry Eye Consultation,Gucci,Single Vision,1,227.1,True,158.97
+OPT-00396,2024-09-26 08:50:08,O-2245,Contact Lens Fitting,Oakley,Bifocal,1,350.0,True,245.0
+OPT-00397,2024-11-26 00:01:05,O-2714,Contact Lens Fitting,Generic,Contact Lenses,1,496.58,True,347.61
+OPT-00398,2025-04-30 13:22:22,O-2377,Eye Exam,Ray-Ban,Bifocal,1,234.54,True,164.18
+OPT-00399,2025-06-04 23:15:38,O-2258,Contact Lens Fitting,Prada,Single Vision,1,257.98,True,180.59
+OPT-00400,2025-04-02 20:55:51,O-2654,Dry Eye Consultation,Generic,Bifocal,1,385.68,True,269.98
+OPT-00401,2025-01-05 23:12:49,O-2406,Eye Exam,Ray-Ban,Bifocal,1,101.61,True,71.13
+OPT-00402,2024-09-13 15:13:59,O-2334,Dry Eye Consultation,Generic,Contact Lenses,1,80.71,True,56.5
+OPT-00403,2025-03-06 11:04:06,O-2730,Dry Eye Consultation,Gucci,Contact Lenses,1,419.19,True,293.43
+OPT-00404,2025-01-11 11:39:21,O-2174,Eye Exam,Prada,Single Vision,1,129.76,True,90.83
+OPT-00405,2025-04-19 00:56:32,O-2547,Dry Eye Consultation,Gucci,Single Vision,1,352.13,True,246.49
+OPT-00406,2024-12-16 07:19:03,O-2693,Glaucoma Screening,Gucci,Contact Lenses,1,211.14,True,147.8
+OPT-00407,2025-02-02 11:48:38,O-2731,Eye Exam,Prada,Progressive,1,248.93,True,174.25
+OPT-00408,2025-01-22 13:55:17,O-2856,Eye Exam,Generic,Bifocal,1,249.79,True,174.85
+OPT-00409,2025-05-03 15:44:22,O-2049,Dry Eye Consultation,Gucci,Progressive,1,218.59,True,153.01
+OPT-00410,2024-09-30 07:55:17,O-2204,Eye Exam,Ray-Ban,Contact Lenses,1,62.57,True,43.8
+OPT-00411,2025-07-14 09:20:31,O-2345,Contact Lens Fitting,Ray-Ban,Progressive,1,481.44,True,337.01
+OPT-00412,2025-01-25 06:54:07,O-2816,Contact Lens Fitting,Gucci,Single Vision,1,237.06,True,165.94
+OPT-00413,2025-07-03 15:02:17,O-2835,Glaucoma Screening,Oakley,Progressive,1,331.1,False,331.1
+OPT-00414,2024-09-26 20:40:08,O-2961,Dry Eye Consultation,Ray-Ban,Progressive,1,146.2,False,146.2
+OPT-00415,2024-09-10 23:24:30,O-2331,Contact Lens Fitting,Ray-Ban,Contact Lenses,1,344.3,True,241.01
+OPT-00416,2024-10-18 04:05:06,O-2398,Contact Lens Fitting,Generic,Progressive,1,79.71,False,79.71
+OPT-00417,2025-05-02 17:04:23,O-2665,Glaucoma Screening,Ray-Ban,Single Vision,1,448.46,False,448.46
+OPT-00418,2025-04-26 04:10:12,O-2308,Dry Eye Consultation,Ray-Ban,Progressive,1,163.37,True,114.36
+OPT-00419,2025-07-10 00:52:31,O-2614,Glaucoma Screening,Generic,Progressive,1,199.42,False,199.42
+OPT-00420,2025-01-25 03:48:36,O-2871,Dry Eye Consultation,Ray-Ban,Bifocal,1,57.94,False,57.94
+OPT-00421,2024-12-31 05:56:14,O-2391,Contact Lens Fitting,Prada,Single Vision,1,154.67,True,108.27
+OPT-00422,2024-12-08 00:19:22,O-2316,Contact Lens Fitting,Generic,Progressive,1,328.89,True,230.22
+OPT-00423,2025-05-01 01:58:43,O-2140,Glaucoma Screening,Generic,Bifocal,1,140.91,False,140.91
+OPT-00424,2024-08-27 03:56:42,O-2209,Eye Exam,Gucci,Contact Lenses,1,382.67,False,382.67
+OPT-00425,2024-11-26 20:58:38,O-2137,Glaucoma Screening,Oakley,Single Vision,1,284.39,False,284.39
+OPT-00426,2025-05-23 08:30:51,O-2663,Glaucoma Screening,Ray-Ban,Progressive,1,431.12,False,431.12
+OPT-00427,2025-08-17 23:30:14,O-2350,Contact Lens Fitting,Gucci,Single Vision,1,457.98,True,320.59
+OPT-00428,2024-11-17 10:26:10,O-2820,Contact Lens Fitting,Prada,Contact Lenses,1,284.66,True,199.26
+OPT-00429,2024-12-22 02:30:40,O-2452,Eye Exam,Ray-Ban,Contact Lenses,1,81.49,True,57.04
+OPT-00430,2024-09-06 01:48:31,O-2053,Contact Lens Fitting,Gucci,Progressive,1,91.29,True,63.9
+OPT-00431,2024-11-27 21:19:57,O-2241,Eye Exam,Generic,Contact Lenses,1,190.16,True,133.11
+OPT-00432,2024-09-02 21:56:05,O-2250,Dry Eye Consultation,Gucci,Progressive,1,186.4,False,186.4
+OPT-00433,2025-03-18 17:19:20,O-2990,Contact Lens Fitting,Oakley,Contact Lenses,1,86.01,False,86.01
+OPT-00434,2025-07-27 17:00:52,O-2407,Dry Eye Consultation,Gucci,Contact Lenses,1,248.62,False,248.62
+OPT-00435,2025-08-03 09:04:42,O-2778,Contact Lens Fitting,Generic,Single Vision,1,392.87,False,392.87
+OPT-00436,2025-04-25 09:18:10,O-2874,Eye Exam,Oakley,Progressive,1,298.78,True,209.15
+OPT-00437,2025-08-20 09:55:45,O-2263,Dry Eye Consultation,Generic,Bifocal,1,254.12,False,254.12
+OPT-00438,2025-08-10 19:06:56,O-2575,Dry Eye Consultation,Ray-Ban,Bifocal,1,111.5,False,111.5
+OPT-00439,2025-01-27 13:09:17,O-2200,Contact Lens Fitting,Gucci,Single Vision,1,55.78,False,55.78
+OPT-00440,2025-08-23 01:42:40,O-2503,Dry Eye Consultation,Generic,Contact Lenses,1,486.72,False,486.72
+OPT-00441,2025-05-24 21:09:48,O-2393,Dry Eye Consultation,Oakley,Single Vision,1,233.95,True,163.76
+OPT-00442,2025-03-16 15:13:22,O-2943,Eye Exam,Generic,Progressive,1,137.4,False,137.4
+OPT-00443,2025-05-16 19:32:50,O-2980,Glaucoma Screening,Oakley,Contact Lenses,1,335.74,False,335.74
+OPT-00444,2025-01-16 17:40:08,O-2713,Eye Exam,Generic,Contact Lenses,1,381.05,True,266.74
+OPT-00445,2025-04-02 12:57:46,O-2489,Eye Exam,Oakley,Single Vision,1,363.86,True,254.7
+OPT-00446,2025-03-17 08:05:44,O-2267,Dry Eye Consultation,Gucci,Bifocal,1,161.34,True,112.94
+OPT-00447,2025-06-02 09:06:57,O-2012,Eye Exam,Ray-Ban,Contact Lenses,1,228.95,True,160.26
+OPT-00448,2025-05-12 09:36:50,O-2530,Contact Lens Fitting,Generic,Progressive,1,423.39,False,423.39
+OPT-00449,2025-07-06 23:38:14,O-2708,Glaucoma Screening,Prada,Contact Lenses,1,313.74,False,313.74
+OPT-00450,2025-04-03 18:39:59,O-2770,Eye Exam,Ray-Ban,Bifocal,1,416.4,False,416.4
+OPT-00451,2025-01-30 14:38:54,O-2766,Contact Lens Fitting,Generic,Bifocal,1,52.89,True,37.02
+OPT-00452,2025-02-20 22:30:48,O-2835,Dry Eye Consultation,Ray-Ban,Single Vision,1,81.43,False,81.43
+OPT-00453,2025-01-22 13:25:30,O-2537,Dry Eye Consultation,Oakley,Contact Lenses,1,126.79,False,126.79
+OPT-00454,2025-01-05 15:46:39,O-2190,Contact Lens Fitting,Gucci,Contact Lenses,1,131.89,True,92.32
+OPT-00455,2024-11-28 21:15:47,O-2461,Contact Lens Fitting,Gucci,Progressive,1,76.54,True,53.58
+OPT-00456,2024-11-09 04:37:20,O-2828,Contact Lens Fitting,Oakley,Contact Lenses,1,248.33,True,173.83
+OPT-00457,2024-09-29 03:08:37,O-2889,Contact Lens Fitting,Ray-Ban,Bifocal,1,88.57,True,62.0
+OPT-00458,2025-02-11 04:19:51,O-2283,Eye Exam,Oakley,Single Vision,1,313.54,False,313.54
+OPT-00459,2024-12-19 02:20:17,O-2496,Eye Exam,Ray-Ban,Single Vision,1,169.74,True,118.82
+OPT-00460,2025-01-21 00:39:43,O-2681,Eye Exam,Ray-Ban,Progressive,1,285.05,True,199.53
+OPT-00461,2025-07-24 09:20:52,O-2384,Glaucoma Screening,Generic,Contact Lenses,1,390.61,False,390.61
+OPT-00462,2024-09-19 04:00:38,O-2344,Glaucoma Screening,Oakley,Bifocal,1,417.58,False,417.58
+OPT-00463,2025-06-23 02:24:32,O-2681,Dry Eye Consultation,Generic,Single Vision,1,488.89,False,488.89
+OPT-00464,2024-08-30 23:39:19,O-2825,Eye Exam,Ray-Ban,Contact Lenses,1,441.74,False,441.74
+OPT-00465,2025-04-14 09:09:51,O-2742,Contact Lens Fitting,Ray-Ban,Single Vision,1,441.05,False,441.05
+OPT-00466,2024-10-04 20:14:01,O-2973,Contact Lens Fitting,Oakley,Contact Lenses,1,328.26,False,328.26
+OPT-00467,2025-08-18 05:31:38,O-2527,Dry Eye Consultation,Gucci,Single Vision,1,493.78,False,493.78
+OPT-00468,2024-12-12 05:17:21,O-2017,Glaucoma Screening,Ray-Ban,Bifocal,1,355.07,True,248.55
+OPT-00469,2025-02-14 23:26:24,O-2621,Dry Eye Consultation,Generic,Single Vision,1,206.75,False,206.75
+OPT-00470,2025-06-10 08:51:08,O-2674,Eye Exam,Generic,Bifocal,1,323.23,True,226.26
+OPT-00471,2025-06-23 03:57:58,O-2890,Eye Exam,Gucci,Contact Lenses,1,408.57,False,408.57
+OPT-00472,2024-10-26 01:46:02,O-2852,Dry Eye Consultation,Gucci,Contact Lenses,1,479.77,False,479.77
+OPT-00473,2024-12-29 06:33:39,O-2678,Contact Lens Fitting,Gucci,Progressive,1,126.69,True,88.68
+OPT-00474,2024-12-20 15:20:13,O-2108,Dry Eye Consultation,Ray-Ban,Progressive,1,468.05,False,468.05
+OPT-00475,2025-04-03 05:37:44,O-2924,Dry Eye Consultation,Oakley,Progressive,1,373.63,False,373.63
+OPT-00476,2024-09-10 13:50:40,O-2974,Eye Exam,Gucci,Contact Lenses,1,90.7,False,90.7
+OPT-00477,2024-09-18 06:18:41,O-2892,Contact Lens Fitting,Prada,Single Vision,1,339.79,False,339.79
+OPT-00478,2025-08-08 15:02:26,O-2932,Dry Eye Consultation,Prada,Contact Lenses,1,413.8,True,289.66
+OPT-00479,2025-04-06 01:57:26,O-2265,Eye Exam,Oakley,Single Vision,1,100.12,False,100.12
+OPT-00480,2024-10-05 18:25:13,O-2758,Contact Lens Fitting,Ray-Ban,Bifocal,1,107.34,False,107.34
+OPT-00481,2025-07-19 02:31:19,O-2976,Dry Eye Consultation,Prada,Single Vision,1,189.86,True,132.9
+OPT-00482,2024-10-12 06:02:35,O-2867,Dry Eye Consultation,Generic,Bifocal,1,397.08,True,277.96
+OPT-00483,2024-11-25 10:32:40,O-2532,Contact Lens Fitting,Ray-Ban,Contact Lenses,1,54.13,False,54.13
+OPT-00484,2025-07-21 13:53:20,O-2323,Contact Lens Fitting,Oakley,Progressive,1,274.92,False,274.92
+OPT-00485,2024-12-06 20:33:22,O-2150,Glaucoma Screening,Gucci,Single Vision,1,319.5,False,319.5
+OPT-00486,2025-08-07 22:06:57,O-2514,Eye Exam,Oakley,Contact Lenses,1,333.98,True,233.79
+OPT-00487,2025-08-10 14:14:44,O-2506,Glaucoma Screening,Generic,Single Vision,1,491.51,False,491.51
+OPT-00488,2025-03-07 02:54:06,O-2156,Contact Lens Fitting,Gucci,Single Vision,1,465.42,True,325.79
+OPT-00489,2025-07-21 11:38:13,O-2877,Dry Eye Consultation,Generic,Bifocal,1,492.98,True,345.09
+OPT-00490,2024-10-11 02:23:38,O-2022,Dry Eye Consultation,Oakley,Contact Lenses,1,355.05,False,355.05
+OPT-00491,2024-10-22 09:53:10,O-2775,Dry Eye Consultation,Generic,Single Vision,1,287.53,False,287.53
+OPT-00492,2025-02-26 05:52:31,O-2289,Contact Lens Fitting,Prada,Contact Lenses,1,93.79,False,93.79
+OPT-00493,2025-07-22 18:30:47,O-2770,Eye Exam,Oakley,Contact Lenses,1,344.59,True,241.21
+OPT-00494,2024-12-10 04:15:15,O-2452,Dry Eye Consultation,Oakley,Progressive,1,144.39,True,101.07
+OPT-00495,2025-01-24 17:58:27,O-2752,Eye Exam,Oakley,Single Vision,1,355.24,True,248.67
+OPT-00496,2025-07-12 02:06:11,O-2385,Dry Eye Consultation,Gucci,Single Vision,1,93.22,False,93.22
+OPT-00497,2025-03-11 04:43:32,O-2183,Eye Exam,Ray-Ban,Bifocal,1,317.03,True,221.92
+OPT-00498,2024-11-12 10:09:11,O-2642,Dry Eye Consultation,Gucci,Single Vision,1,103.46,False,103.46
+OPT-00499,2024-12-25 11:16:58,O-2500,Glaucoma Screening,Prada,Progressive,1,343.76,False,343.76
+OPT-00500,2025-03-16 08:43:18,O-2794,Eye Exam,Generic,Contact Lenses,1,173.85,False,173.85
+OPT-00501,2024-10-23 10:30:04,O-2376,Eye Exam,Ray-Ban,Single Vision,1,87.19,False,87.19
+OPT-00502,2024-10-20 21:14:10,O-2656,Contact Lens Fitting,Ray-Ban,Contact Lenses,1,173.18,True,121.23
+OPT-00503,2025-04-07 03:31:29,O-2813,Contact Lens Fitting,Generic,Contact Lenses,1,499.98,False,499.98
+OPT-00504,2025-03-18 08:01:16,O-2305,Contact Lens Fitting,Ray-Ban,Bifocal,1,78.57,True,55.0
+OPT-00505,2025-04-24 02:08:27,O-2415,Eye Exam,Generic,Contact Lenses,1,78.77,True,55.14
+OPT-00506,2025-05-26 19:12:25,O-2771,Contact Lens Fitting,Ray-Ban,Progressive,1,437.9,True,306.53
+OPT-00507,2025-08-02 06:05:30,O-2005,Dry Eye Consultation,Oakley,Single Vision,1,67.61,True,47.33
+OPT-00508,2025-08-17 22:06:43,O-2668,Contact Lens Fitting,Ray-Ban,Bifocal,1,433.15,True,303.2
+OPT-00509,2025-03-12 03:17:22,O-2086,Eye Exam,Prada,Bifocal,1,213.6,True,149.52
+OPT-00510,2025-08-15 11:02:10,O-2433,Eye Exam,Gucci,Bifocal,1,70.77,False,70.77
+OPT-00511,2024-08-25 23:47:13,O-2674,Dry Eye Consultation,Gucci,Contact Lenses,1,362.8,False,362.8
+OPT-00512,2025-03-09 16:44:51,O-2620,Contact Lens Fitting,Ray-Ban,Single Vision,1,156.7,True,109.69
+OPT-00513,2025-06-28 22:52:14,O-2145,Glaucoma Screening,Gucci,Progressive,1,320.96,True,224.67
+OPT-00514,2025-08-10 12:08:02,O-2605,Glaucoma Screening,Oakley,Progressive,1,378.1,False,378.1
+OPT-00515,2025-08-23 12:30:48,O-2076,Glaucoma Screening,Oakley,Contact Lenses,1,342.4,True,239.68
+OPT-00516,2025-05-23 15:33:28,O-2409,Dry Eye Consultation,Ray-Ban,Bifocal,1,354.44,True,248.11
+OPT-00517,2025-08-08 16:14:17,O-2548,Contact Lens Fitting,Ray-Ban,Bifocal,1,497.91,True,348.54
+OPT-00518,2025-05-07 18:42:44,O-2731,Glaucoma Screening,Prada,Progressive,1,238.86,True,167.2
+OPT-00519,2025-02-08 02:38:41,O-2323,Dry Eye Consultation,Generic,Single Vision,1,483.81,True,338.67
+OPT-00520,2024-11-12 09:55:45,O-2079,Glaucoma Screening,Ray-Ban,Single Vision,1,357.79,False,357.79
+OPT-00521,2024-09-27 06:45:05,O-2067,Glaucoma Screening,Ray-Ban,Bifocal,1,459.16,False,459.16
+OPT-00522,2024-10-31 02:04:25,O-2149,Contact Lens Fitting,Oakley,Single Vision,1,94.08,True,65.86
+OPT-00523,2024-12-13 10:47:52,O-2387,Eye Exam,Ray-Ban,Progressive,1,286.91,False,286.91
+OPT-00524,2024-12-30 01:08:21,O-2602,Dry Eye Consultation,Ray-Ban,Bifocal,1,365.2,False,365.2
+OPT-00525,2024-10-08 22:45:51,O-2564,Glaucoma Screening,Prada,Single Vision,1,453.46,True,317.42
+OPT-00526,2025-07-22 06:38:46,O-2325,Dry Eye Consultation,Gucci,Bifocal,1,412.74,False,412.74
+OPT-00527,2025-03-08 15:29:10,O-2488,Contact Lens Fitting,Oakley,Single Vision,1,359.0,True,251.3
+OPT-00528,2025-05-28 00:59:16,O-2673,Contact Lens Fitting,Gucci,Contact Lenses,1,305.4,False,305.4
+OPT-00529,2024-08-30 00:57:39,O-2054,Glaucoma Screening,Gucci,Contact Lenses,1,368.05,True,257.63
+OPT-00530,2025-08-05 18:23:08,O-2449,Glaucoma Screening,Generic,Bifocal,1,174.12,False,174.12
+OPT-00531,2025-05-12 08:22:14,O-2533,Contact Lens Fitting,Oakley,Single Vision,1,476.35,False,476.35
+OPT-00532,2025-02-24 23:26:32,O-2789,Glaucoma Screening,Ray-Ban,Single Vision,1,84.51,True,59.16
+OPT-00533,2024-09-15 18:16:29,O-2967,Eye Exam,Gucci,Single Vision,1,88.06,False,88.06
+OPT-00534,2024-12-14 20:21:48,O-2567,Dry Eye Consultation,Ray-Ban,Contact Lenses,1,354.66,True,248.26
+OPT-00535,2024-11-24 16:01:27,O-2491,Dry Eye Consultation,Prada,Single Vision,1,232.46,True,162.72
+OPT-00536,2025-04-06 09:47:01,O-2932,Eye Exam,Generic,Bifocal,1,159.9,True,111.93
+OPT-00537,2025-05-02 22:39:51,O-2621,Dry Eye Consultation,Gucci,Progressive,1,128.67,False,128.67
+OPT-00538,2025-07-21 15:04:19,O-2859,Contact Lens Fitting,Prada,Bifocal,1,478.62,False,478.62
+OPT-00539,2025-07-27 18:46:33,O-2507,Dry Eye Consultation,Gucci,Bifocal,1,486.38,False,486.38
+OPT-00540,2024-09-15 04:07:21,O-2935,Contact Lens Fitting,Prada,Single Vision,1,180.53,False,180.53
+OPT-00541,2025-06-30 15:59:22,O-2300,Glaucoma Screening,Gucci,Single Vision,1,382.11,False,382.11
+OPT-00542,2025-02-10 03:13:42,O-2222,Glaucoma Screening,Prada,Single Vision,1,470.94,False,470.94
+OPT-00543,2025-05-14 21:28:36,O-2058,Glaucoma Screening,Ray-Ban,Contact Lenses,1,197.85,False,197.85
+OPT-00544,2024-11-07 15:41:19,O-2109,Eye Exam,Oakley,Progressive,1,230.93,True,161.65
+OPT-00545,2025-04-19 19:53:52,O-2103,Dry Eye Consultation,Generic,Progressive,1,88.13,True,61.69
+OPT-00546,2025-06-28 21:30:42,O-2420,Eye Exam,Generic,Single Vision,1,120.03,False,120.03
+OPT-00547,2025-06-19 02:35:41,O-2231,Dry Eye Consultation,Generic,Bifocal,1,184.68,False,184.68
+OPT-00548,2024-11-20 04:05:24,O-2913,Contact Lens Fitting,Prada,Bifocal,1,98.91,False,98.91
+OPT-00549,2024-11-09 22:13:57,O-2672,Dry Eye Consultation,Gucci,Progressive,1,209.18,False,209.18
+OPT-00550,2024-12-12 21:24:25,O-2005,Glaucoma Screening,Gucci,Single Vision,1,135.31,True,94.72
+OPT-00551,2025-03-03 20:20:52,O-2136,Dry Eye Consultation,Generic,Bifocal,1,455.45,True,318.81
+OPT-00552,2025-01-01 01:37:51,O-2682,Contact Lens Fitting,Generic,Bifocal,1,103.46,False,103.46
+OPT-00553,2025-02-04 20:45:35,O-2563,Dry Eye Consultation,Gucci,Bifocal,1,387.99,False,387.99
+OPT-00554,2025-01-16 19:01:43,O-2513,Dry Eye Consultation,Gucci,Single Vision,1,480.96,True,336.67
+OPT-00555,2024-12-28 20:02:33,O-2129,Contact Lens Fitting,Oakley,Single Vision,1,395.32,True,276.72
+OPT-00556,2024-12-06 16:45:23,O-2053,Glaucoma Screening,Generic,Single Vision,1,245.45,False,245.45
+OPT-00557,2025-08-05 20:10:53,O-2288,Dry Eye Consultation,Ray-Ban,Contact Lenses,1,161.49,True,113.04
+OPT-00558,2025-03-31 19:58:56,O-2746,Contact Lens Fitting,Gucci,Bifocal,1,395.03,False,395.03
+OPT-00559,2025-02-08 13:28:39,O-2717,Contact Lens Fitting,Generic,Progressive,1,263.25,True,184.27
+OPT-00560,2025-06-04 22:12:27,O-2717,Contact Lens Fitting,Gucci,Progressive,1,153.22,True,107.25
+OPT-00561,2024-09-21 22:18:17,O-2410,Eye Exam,Oakley,Progressive,1,468.09,False,468.09
+OPT-00562,2025-05-07 05:42:47,O-2018,Contact Lens Fitting,Ray-Ban,Single Vision,1,221.16,False,221.16
+OPT-00563,2025-04-13 05:41:00,O-2716,Contact Lens Fitting,Gucci,Bifocal,1,241.73,True,169.21
+OPT-00564,2024-11-20 15:16:31,O-2522,Dry Eye Consultation,Ray-Ban,Bifocal,1,99.52,False,99.52
+OPT-00565,2024-12-18 22:37:54,O-2287,Glaucoma Screening,Generic,Progressive,1,193.93,True,135.75
+OPT-00566,2025-07-05 21:26:37,O-2186,Eye Exam,Ray-Ban,Single Vision,1,347.19,False,347.19
+OPT-00567,2024-09-16 19:10:40,O-2217,Glaucoma Screening,Generic,Bifocal,1,458.82,True,321.17
+OPT-00568,2025-04-23 17:26:55,O-2441,Contact Lens Fitting,Oakley,Contact Lenses,1,213.61,False,213.61
+OPT-00569,2025-08-06 19:31:36,O-2114,Eye Exam,Ray-Ban,Progressive,1,199.05,False,199.05
+OPT-00570,2025-06-04 19:36:19,O-2760,Glaucoma Screening,Gucci,Bifocal,1,144.51,False,144.51
+OPT-00571,2025-06-02 02:04:01,O-2089,Eye Exam,Gucci,Single Vision,1,68.47,True,47.93
+OPT-00572,2024-09-05 18:16:12,O-2197,Dry Eye Consultation,Ray-Ban,Single Vision,1,473.82,False,473.82
+OPT-00573,2025-08-13 18:53:36,O-2308,Dry Eye Consultation,Gucci,Progressive,1,69.71,True,48.8
+OPT-00574,2025-07-08 15:04:31,O-2428,Glaucoma Screening,Prada,Bifocal,1,452.71,False,452.71
+OPT-00575,2024-10-14 02:18:49,O-2644,Eye Exam,Generic,Single Vision,1,267.27,True,187.09
+OPT-00576,2025-02-19 02:45:14,O-2170,Glaucoma Screening,Gucci,Bifocal,1,70.45,True,49.31
+OPT-00577,2025-04-05 21:00:43,O-2813,Contact Lens Fitting,Generic,Contact Lenses,1,358.11,True,250.68
+OPT-00578,2025-01-06 21:18:14,O-2169,Dry Eye Consultation,Prada,Contact Lenses,1,303.12,False,303.12
+OPT-00579,2024-09-29 13:14:03,O-2410,Glaucoma Screening,Gucci,Progressive,1,51.62,True,36.13
+OPT-00580,2025-07-17 18:33:58,O-2606,Eye Exam,Prada,Contact Lenses,1,276.72,False,276.72
+OPT-00581,2024-12-28 07:59:28,O-2310,Contact Lens Fitting,Oakley,Bifocal,1,298.47,True,208.93
+OPT-00582,2025-05-11 04:09:46,O-2229,Eye Exam,Prada,Progressive,1,181.33,True,126.93
+OPT-00583,2024-12-21 09:52:00,O-2964,Glaucoma Screening,Gucci,Bifocal,1,443.02,True,310.11
+OPT-00584,2024-11-19 07:10:05,O-2657,Contact Lens Fitting,Gucci,Single Vision,1,50.63,False,50.63
+OPT-00585,2024-08-31 13:40:11,O-2647,Glaucoma Screening,Oakley,Single Vision,1,475.89,False,475.89
+OPT-00586,2024-12-27 20:33:51,O-2739,Contact Lens Fitting,Generic,Bifocal,1,196.09,True,137.26
+OPT-00587,2025-04-18 19:04:03,O-2640,Eye Exam,Oakley,Progressive,1,378.71,False,378.71
+OPT-00588,2025-08-22 20:20:39,O-2180,Glaucoma Screening,Ray-Ban,Single Vision,1,375.17,False,375.17
+OPT-00589,2025-02-06 08:29:10,O-2968,Glaucoma Screening,Prada,Progressive,1,417.58,True,292.31
+OPT-00590,2024-10-16 17:42:10,O-2332,Glaucoma Screening,Gucci,Contact Lenses,1,120.04,True,84.03
+OPT-00591,2025-02-07 23:25:27,O-2747,Dry Eye Consultation,Oakley,Progressive,1,455.98,True,319.19
+OPT-00592,2025-06-01 02:22:28,O-2507,Contact Lens Fitting,Generic,Progressive,1,417.02,True,291.91
+OPT-00593,2025-05-14 01:16:23,O-2193,Dry Eye Consultation,Gucci,Bifocal,1,59.47,True,41.63
+OPT-00594,2025-04-16 08:46:23,O-2906,Contact Lens Fitting,Generic,Progressive,1,81.25,True,56.87
+OPT-00595,2024-10-15 14:54:33,O-2436,Contact Lens Fitting,Generic,Contact Lenses,1,95.11,True,66.58
+OPT-00596,2025-01-09 11:07:17,O-2744,Eye Exam,Prada,Single Vision,1,220.04,True,154.03
+OPT-00597,2025-06-03 18:50:15,O-2112,Eye Exam,Ray-Ban,Progressive,1,161.75,True,113.22
+OPT-00598,2024-10-14 09:22:50,O-2274,Contact Lens Fitting,Prada,Single Vision,1,406.58,True,284.61
+OPT-00599,2025-01-15 04:01:45,O-2980,Eye Exam,Prada,Bifocal,1,433.72,True,303.6
+OPT-00600,2024-10-22 18:03:45,O-2207,Contact Lens Fitting,Generic,Contact Lenses,1,416.96,False,416.96
+OPT-00601,2025-07-05 20:51:34,O-2339,Dry Eye Consultation,Gucci,Progressive,1,75.14,False,75.14
+OPT-00602,2025-06-11 02:21:38,O-2642,Eye Exam,Ray-Ban,Single Vision,1,96.27,False,96.27
+OPT-00603,2024-09-22 13:10:14,O-2105,Dry Eye Consultation,Gucci,Single Vision,1,460.48,True,322.34
+OPT-00604,2025-02-03 07:52:32,O-2232,Dry Eye Consultation,Generic,Progressive,1,208.99,False,208.99
+OPT-00605,2025-07-05 10:32:42,O-2231,Dry Eye Consultation,Ray-Ban,Contact Lenses,1,126.3,True,88.41
+OPT-00606,2024-09-17 22:44:49,O-2229,Eye Exam,Oakley,Bifocal,1,84.33,False,84.33
+OPT-00607,2025-08-18 02:56:17,O-2121,Glaucoma Screening,Ray-Ban,Single Vision,1,322.03,True,225.42
+OPT-00608,2024-12-14 11:16:45,O-2438,Glaucoma Screening,Prada,Progressive,1,355.74,True,249.02
+OPT-00609,2025-06-23 07:34:30,O-2914,Glaucoma Screening,Prada,Bifocal,1,206.77,True,144.74
+OPT-00610,2024-08-26 08:40:20,O-2277,Dry Eye Consultation,Oakley,Bifocal,1,414.82,True,290.37
+OPT-00611,2025-07-31 11:24:31,O-2807,Eye Exam,Gucci,Progressive,1,194.12,False,194.12
+OPT-00612,2024-11-19 12:48:50,O-2457,Dry Eye Consultation,Ray-Ban,Single Vision,1,310.03,False,310.03
+OPT-00613,2025-07-29 02:27:07,O-2148,Eye Exam,Oakley,Progressive,1,131.84,False,131.84
+OPT-00614,2025-02-23 10:25:21,O-2361,Glaucoma Screening,Generic,Contact Lenses,1,266.58,False,266.58
+OPT-00615,2024-10-05 13:00:44,O-2616,Glaucoma Screening,Gucci,Progressive,1,222.43,False,222.43
+OPT-00616,2025-05-24 13:57:46,O-2551,Dry Eye Consultation,Prada,Progressive,1,223.08,False,223.08
+OPT-00617,2024-12-15 15:36:08,O-2539,Contact Lens Fitting,Ray-Ban,Progressive,1,212.77,True,148.94
+OPT-00618,2024-12-02 15:48:18,O-2871,Eye Exam,Oakley,Contact Lenses,1,480.93,True,336.65
+OPT-00619,2025-04-11 18:54:46,O-2061,Glaucoma Screening,Oakley,Progressive,1,182.61,True,127.83
+OPT-00620,2025-04-12 02:30:22,O-2855,Dry Eye Consultation,Gucci,Progressive,1,422.52,True,295.76
+OPT-00621,2025-03-02 04:17:32,O-2764,Contact Lens Fitting,Ray-Ban,Progressive,1,219.86,True,153.9
+OPT-00622,2025-03-06 10:02:23,O-2712,Dry Eye Consultation,Oakley,Single Vision,1,365.63,True,255.94
+OPT-00623,2025-05-14 18:15:44,O-2488,Contact Lens Fitting,Ray-Ban,Progressive,1,214.36,True,150.05
+OPT-00624,2025-01-07 16:59:43,O-2250,Eye Exam,Ray-Ban,Contact Lenses,1,117.37,True,82.16
+OPT-00625,2025-06-06 07:31:39,O-2481,Contact Lens Fitting,Prada,Bifocal,1,261.58,False,261.58
+OPT-00626,2024-11-23 15:16:59,O-2454,Eye Exam,Oakley,Single Vision,1,120.15,True,84.11
+OPT-00627,2025-07-02 21:13:50,O-2618,Contact Lens Fitting,Prada,Progressive,1,54.89,False,54.89
+OPT-00628,2024-09-23 00:29:02,O-2696,Dry Eye Consultation,Prada,Bifocal,1,463.62,False,463.62
+OPT-00629,2025-06-18 09:03:29,O-2726,Contact Lens Fitting,Generic,Progressive,1,172.32,True,120.62
+OPT-00630,2025-04-28 12:31:17,O-2534,Dry Eye Consultation,Gucci,Progressive,1,230.18,True,161.13
+OPT-00631,2025-03-19 19:48:44,O-2224,Dry Eye Consultation,Gucci,Single Vision,1,417.45,False,417.45
+OPT-00632,2025-07-29 15:01:36,O-2488,Glaucoma Screening,Generic,Contact Lenses,1,124.17,False,124.17
+OPT-00633,2025-03-28 04:03:07,O-2662,Dry Eye Consultation,Gucci,Bifocal,1,98.78,True,69.15
+OPT-00634,2025-03-11 19:39:57,O-2371,Glaucoma Screening,Ray-Ban,Progressive,1,176.99,True,123.89
+OPT-00635,2025-03-12 10:49:45,O-2066,Contact Lens Fitting,Prada,Single Vision,1,390.43,False,390.43
+OPT-00636,2025-06-28 17:33:39,O-2192,Contact Lens Fitting,Ray-Ban,Progressive,1,171.13,True,119.79
+OPT-00637,2024-08-24 13:56:47,O-2577,Dry Eye Consultation,Ray-Ban,Single Vision,1,191.56,False,191.56
+OPT-00638,2025-07-02 12:50:47,O-2008,Glaucoma Screening,Oakley,Contact Lenses,1,275.1,False,275.1
+OPT-00639,2025-02-15 03:39:06,O-2769,Dry Eye Consultation,Oakley,Progressive,1,366.2,True,256.34
+OPT-00640,2025-04-02 08:39:13,O-2339,Dry Eye Consultation,Prada,Single Vision,1,275.98,True,193.19
+OPT-00641,2025-02-03 10:48:32,O-2024,Dry Eye Consultation,Generic,Single Vision,1,180.55,True,126.39
+OPT-00642,2024-11-19 16:25:16,O-2698,Dry Eye Consultation,Ray-Ban,Single Vision,1,478.77,True,335.14
+OPT-00643,2025-06-01 17:23:47,O-2905,Contact Lens Fitting,Gucci,Progressive,1,497.04,False,497.04
+OPT-00644,2025-04-01 19:13:21,O-2458,Contact Lens Fitting,Oakley,Bifocal,1,212.14,False,212.14
+OPT-00645,2025-02-13 15:56:03,O-2040,Dry Eye Consultation,Gucci,Progressive,1,498.65,True,349.05
+OPT-00646,2024-12-26 18:31:11,O-2981,Contact Lens Fitting,Prada,Contact Lenses,1,93.83,True,65.68
+OPT-00647,2024-12-21 19:26:59,O-2146,Glaucoma Screening,Prada,Single Vision,1,274.51,False,274.51
+OPT-00648,2025-06-16 05:21:37,O-2321,Contact Lens Fitting,Oakley,Progressive,1,80.67,False,80.67
+OPT-00649,2025-07-15 22:42:09,O-2361,Eye Exam,Ray-Ban,Progressive,1,369.79,False,369.79
+OPT-00650,2025-01-05 07:35:47,O-2264,Dry Eye Consultation,Oakley,Contact Lenses,1,342.63,True,239.84
+OPT-00651,2025-05-01 18:02:55,O-2962,Eye Exam,Prada,Contact Lenses,1,67.82,False,67.82
+OPT-00652,2025-07-09 11:07:48,O-2410,Dry Eye Consultation,Prada,Progressive,1,248.37,False,248.37
+OPT-00653,2025-02-28 14:19:58,O-2382,Eye Exam,Generic,Contact Lenses,1,168.27,True,117.79
+OPT-00654,2024-12-31 19:23:19,O-2635,Eye Exam,Gucci,Single Vision,1,119.55,True,83.68
+OPT-00655,2024-12-14 22:28:23,O-2297,Dry Eye Consultation,Gucci,Contact Lenses,1,434.22,True,303.95
+OPT-00656,2025-07-19 11:03:33,O-2397,Dry Eye Consultation,Ray-Ban,Bifocal,1,259.64,False,259.64
+OPT-00657,2025-03-05 07:11:28,O-2111,Eye Exam,Gucci,Single Vision,1,462.86,False,462.86
+OPT-00658,2025-06-22 11:22:33,O-2786,Dry Eye Consultation,Gucci,Contact Lenses,1,197.92,False,197.92
+OPT-00659,2024-11-03 13:02:32,O-2350,Dry Eye Consultation,Gucci,Contact Lenses,1,101.45,False,101.45
+OPT-00660,2025-07-05 19:14:19,O-2039,Contact Lens Fitting,Generic,Progressive,1,338.1,False,338.1
+OPT-00661,2025-05-27 07:48:45,O-2581,Eye Exam,Prada,Contact Lenses,1,78.08,False,78.08
+OPT-00662,2025-08-09 17:03:50,O-2808,Dry Eye Consultation,Generic,Progressive,1,74.33,True,52.03
+OPT-00663,2024-12-20 06:22:08,O-2975,Dry Eye Consultation,Oakley,Bifocal,1,336.06,True,235.24
+OPT-00664,2025-07-19 11:11:30,O-2145,Eye Exam,Oakley,Contact Lenses,1,86.77,False,86.77
+OPT-00665,2024-10-30 11:19:32,O-2892,Dry Eye Consultation,Prada,Progressive,1,351.34,False,351.34
+OPT-00666,2025-04-23 18:02:13,O-2188,Eye Exam,Ray-Ban,Contact Lenses,1,203.91,False,203.91
+OPT-00667,2024-10-04 02:28:20,O-2168,Contact Lens Fitting,Oakley,Contact Lenses,1,266.73,True,186.71
+OPT-00668,2025-05-23 15:53:08,O-2988,Dry Eye Consultation,Oakley,Contact Lenses,1,420.36,True,294.25
+OPT-00669,2025-04-15 13:19:59,O-2079,Contact Lens Fitting,Oakley,Bifocal,1,56.38,False,56.38
+OPT-00670,2024-10-11 23:38:47,O-2956,Contact Lens Fitting,Generic,Bifocal,1,101.12,False,101.12
+OPT-00671,2024-10-15 08:23:52,O-2269,Eye Exam,Generic,Progressive,1,335.43,True,234.8
+OPT-00672,2024-09-24 01:13:30,O-2037,Contact Lens Fitting,Gucci,Contact Lenses,1,363.4,True,254.38
+OPT-00673,2025-06-28 18:39:00,O-2615,Dry Eye Consultation,Gucci,Bifocal,1,144.39,True,101.07
+OPT-00674,2025-08-13 13:10:01,O-2995,Eye Exam,Oakley,Bifocal,1,57.29,False,57.29
+OPT-00675,2024-11-22 02:45:00,O-2514,Eye Exam,Generic,Contact Lenses,1,236.32,False,236.32
+OPT-00676,2025-06-16 05:39:42,O-2360,Dry Eye Consultation,Prada,Bifocal,1,101.02,True,70.71
+OPT-00677,2025-03-09 08:17:09,O-2469,Dry Eye Consultation,Oakley,Progressive,1,298.74,True,209.12
+OPT-00678,2024-10-13 02:07:58,O-2555,Dry Eye Consultation,Generic,Bifocal,1,430.29,False,430.29
+OPT-00679,2024-12-10 01:03:29,O-2649,Glaucoma Screening,Prada,Single Vision,1,497.91,True,348.54
+OPT-00680,2024-11-03 09:39:35,O-2091,Eye Exam,Prada,Contact Lenses,1,96.65,True,67.66
+OPT-00681,2024-10-09 15:20:31,O-2648,Dry Eye Consultation,Prada,Single Vision,1,350.47,False,350.47
+OPT-00682,2025-03-01 15:43:58,O-2216,Contact Lens Fitting,Generic,Contact Lenses,1,101.53,False,101.53
+OPT-00683,2025-04-14 05:48:34,O-2973,Eye Exam,Oakley,Contact Lenses,1,235.82,False,235.82
+OPT-00684,2025-01-03 14:31:22,O-2007,Glaucoma Screening,Gucci,Bifocal,1,170.42,False,170.42
+OPT-00685,2025-01-01 18:11:22,O-2314,Dry Eye Consultation,Gucci,Single Vision,1,455.08,False,455.08
+OPT-00686,2025-01-01 15:33:16,O-2033,Eye Exam,Ray-Ban,Progressive,1,405.73,False,405.73
+OPT-00687,2024-10-31 01:35:12,O-2343,Contact Lens Fitting,Prada,Contact Lenses,1,158.82,False,158.82
+OPT-00688,2025-06-23 10:25:13,O-2197,Dry Eye Consultation,Ray-Ban,Contact Lenses,1,107.99,False,107.99
+OPT-00689,2025-06-13 12:23:41,O-2745,Contact Lens Fitting,Generic,Bifocal,1,282.77,False,282.77
+OPT-00690,2025-05-19 03:38:39,O-2236,Eye Exam,Gucci,Single Vision,1,334.15,False,334.15
+OPT-00691,2025-04-09 20:32:12,O-2863,Glaucoma Screening,Prada,Progressive,1,476.92,True,333.84
+OPT-00692,2025-04-11 06:40:56,O-2095,Eye Exam,Ray-Ban,Contact Lenses,1,55.19,True,38.63
+OPT-00693,2025-01-04 04:59:29,O-2028,Eye Exam,Prada,Contact Lenses,1,61.38,True,42.97
+OPT-00694,2025-04-23 17:08:20,O-2464,Glaucoma Screening,Gucci,Progressive,1,343.64,True,240.55
+OPT-00695,2024-08-24 14:28:15,O-2304,Contact Lens Fitting,Prada,Progressive,1,376.84,False,376.84
+OPT-00696,2025-05-25 08:46:47,O-2788,Glaucoma Screening,Ray-Ban,Bifocal,1,87.33,True,61.13
+OPT-00697,2025-02-22 02:03:22,O-2642,Eye Exam,Prada,Single Vision,1,99.92,True,69.94
+OPT-00698,2025-02-17 03:34:24,O-2109,Contact Lens Fitting,Oakley,Bifocal,1,452.57,True,316.8
+OPT-00699,2025-03-12 20:00:28,O-2079,Dry Eye Consultation,Oakley,Progressive,1,225.86,False,225.86
+OPT-00700,2024-10-24 21:41:16,O-2814,Eye Exam,Generic,Single Vision,1,268.93,True,188.25
+OPT-00701,2025-07-21 09:43:12,O-2215,Dry Eye Consultation,Generic,Bifocal,1,335.1,False,335.1
+OPT-00702,2025-08-12 10:09:46,O-2827,Contact Lens Fitting,Gucci,Bifocal,1,54.56,True,38.19
+OPT-00703,2025-07-03 16:45:16,O-2675,Eye Exam,Ray-Ban,Bifocal,1,497.18,False,497.18
+OPT-00704,2024-10-20 15:17:24,O-2628,Eye Exam,Gucci,Bifocal,1,466.96,True,326.87
+OPT-00705,2024-12-16 00:16:28,O-2620,Eye Exam,Prada,Single Vision,1,283.1,True,198.17
+OPT-00706,2025-04-06 18:52:27,O-2221,Glaucoma Screening,Ray-Ban,Progressive,1,63.27,True,44.29
+OPT-00707,2025-02-27 20:12:44,O-2225,Eye Exam,Gucci,Bifocal,1,173.15,True,121.2
+OPT-00708,2025-01-19 09:22:51,O-2976,Eye Exam,Oakley,Bifocal,1,260.17,False,260.17
+OPT-00709,2024-10-16 10:43:20,O-2446,Dry Eye Consultation,Gucci,Bifocal,1,127.83,False,127.83
+OPT-00710,2024-08-25 22:13:22,O-2984,Dry Eye Consultation,Ray-Ban,Bifocal,1,124.54,True,87.18
+OPT-00711,2025-01-23 12:25:41,O-2976,Dry Eye Consultation,Generic,Contact Lenses,1,240.68,False,240.68
+OPT-00712,2025-04-16 06:40:25,O-2835,Glaucoma Screening,Prada,Single Vision,1,323.28,False,323.28
+OPT-00713,2024-12-21 10:36:28,O-2204,Glaucoma Screening,Oakley,Single Vision,1,252.23,True,176.56
+OPT-00714,2024-11-10 23:19:06,O-2981,Glaucoma Screening,Prada,Contact Lenses,1,182.06,False,182.06
+OPT-00715,2024-09-10 16:40:59,O-2407,Eye Exam,Ray-Ban,Progressive,1,414.07,False,414.07
+OPT-00716,2025-03-10 06:28:45,O-2809,Contact Lens Fitting,Oakley,Progressive,1,82.69,False,82.69
+OPT-00717,2025-02-10 18:28:48,O-2380,Contact Lens Fitting,Oakley,Single Vision,1,54.33,True,38.03
+OPT-00718,2024-11-01 20:30:40,O-2734,Glaucoma Screening,Gucci,Contact Lenses,1,305.36,False,305.36
+OPT-00719,2024-09-18 22:32:23,O-2920,Contact Lens Fitting,Prada,Single Vision,1,223.52,True,156.46
+OPT-00720,2025-01-31 05:09:42,O-2539,Contact Lens Fitting,Ray-Ban,Bifocal,1,372.32,True,260.62
+OPT-00721,2024-09-26 08:56:29,O-2587,Dry Eye Consultation,Generic,Bifocal,1,416.03,True,291.22
+OPT-00722,2025-01-30 10:36:00,O-2201,Eye Exam,Generic,Contact Lenses,1,71.06,False,71.06
+OPT-00723,2025-07-23 15:58:50,O-2431,Eye Exam,Ray-Ban,Contact Lenses,1,127.01,False,127.01
+OPT-00724,2025-02-10 12:44:29,O-2605,Dry Eye Consultation,Gucci,Single Vision,1,178.27,True,124.79
+OPT-00725,2024-08-27 15:37:18,O-2933,Dry Eye Consultation,Oakley,Progressive,1,428.74,False,428.74
+OPT-00726,2025-02-11 22:16:49,O-2037,Eye Exam,Oakley,Single Vision,1,81.25,True,56.87
+OPT-00727,2024-11-23 13:06:50,O-2849,Dry Eye Consultation,Oakley,Bifocal,1,192.74,False,192.74
+OPT-00728,2024-11-02 17:35:57,O-2409,Eye Exam,Prada,Bifocal,1,272.22,True,190.55
+OPT-00729,2025-01-12 02:26:39,O-2402,Glaucoma Screening,Generic,Contact Lenses,1,431.9,True,302.33
+OPT-00730,2025-02-16 13:10:27,O-2863,Glaucoma Screening,Prada,Single Vision,1,63.18,True,44.23
+OPT-00731,2025-05-28 18:23:36,O-2845,Eye Exam,Gucci,Single Vision,1,497.09,False,497.09
+OPT-00732,2024-11-06 15:12:08,O-2231,Contact Lens Fitting,Ray-Ban,Progressive,1,375.85,False,375.85
+OPT-00733,2025-03-31 09:42:25,O-2835,Eye Exam,Ray-Ban,Bifocal,1,447.49,True,313.24
+OPT-00734,2024-11-19 11:34:51,O-2113,Eye Exam,Oakley,Single Vision,1,168.68,False,168.68
+OPT-00735,2025-06-29 15:10:30,O-2276,Contact Lens Fitting,Gucci,Contact Lenses,1,103.96,False,103.96
+OPT-00736,2025-07-11 10:07:55,O-2882,Contact Lens Fitting,Prada,Contact Lenses,1,336.61,True,235.63
+OPT-00737,2025-07-24 23:06:27,O-2534,Contact Lens Fitting,Prada,Contact Lenses,1,347.57,False,347.57
+OPT-00738,2024-10-07 21:12:18,O-2329,Dry Eye Consultation,Gucci,Single Vision,1,168.72,False,168.72
+OPT-00739,2025-07-15 06:55:09,O-2728,Eye Exam,Oakley,Progressive,1,346.77,True,242.74
+OPT-00740,2025-07-29 10:11:21,O-2711,Eye Exam,Ray-Ban,Contact Lenses,1,77.12,True,53.98
+OPT-00741,2024-09-10 20:29:48,O-2686,Contact Lens Fitting,Generic,Contact Lenses,1,134.56,True,94.19
+OPT-00742,2024-09-02 19:57:09,O-2348,Contact Lens Fitting,Prada,Bifocal,1,392.22,False,392.22
+OPT-00743,2025-06-21 01:37:04,O-2725,Dry Eye Consultation,Gucci,Single Vision,1,461.36,True,322.95
+OPT-00744,2025-04-27 13:47:05,O-2938,Glaucoma Screening,Generic,Contact Lenses,1,440.54,True,308.38
+OPT-00745,2025-07-28 11:13:03,O-2798,Dry Eye Consultation,Gucci,Single Vision,1,175.03,True,122.52
+OPT-00746,2024-12-26 02:43:35,O-2702,Glaucoma Screening,Prada,Single Vision,1,116.28,True,81.4
+OPT-00747,2025-05-06 03:18:29,O-2762,Eye Exam,Gucci,Single Vision,1,452.34,True,316.64
+OPT-00748,2024-11-06 10:43:03,O-2273,Eye Exam,Generic,Contact Lenses,1,208.38,True,145.87
+OPT-00749,2025-08-17 10:05:28,O-2949,Eye Exam,Oakley,Contact Lenses,1,145.43,False,145.43
+OPT-00750,2025-02-27 10:14:42,O-2514,Dry Eye Consultation,Prada,Bifocal,1,73.92,False,73.92
+OPT-00751,2025-02-26 13:58:59,O-2378,Eye Exam,Ray-Ban,Contact Lenses,1,379.4,False,379.4
+OPT-00752,2025-01-21 13:24:25,O-2198,Glaucoma Screening,Gucci,Contact Lenses,1,129.49,False,129.49
+OPT-00753,2024-12-05 10:13:29,O-2542,Dry Eye Consultation,Prada,Contact Lenses,1,99.13,True,69.39
+OPT-00754,2025-01-05 18:43:57,O-2661,Contact Lens Fitting,Ray-Ban,Progressive,1,101.83,True,71.28
+OPT-00755,2025-04-13 16:59:39,O-2589,Glaucoma Screening,Gucci,Single Vision,1,289.46,False,289.46
+OPT-00756,2025-05-17 22:04:39,O-2231,Dry Eye Consultation,Generic,Contact Lenses,1,95.59,False,95.59
+OPT-00757,2024-11-15 13:39:15,O-2507,Contact Lens Fitting,Gucci,Progressive,1,206.43,False,206.43
+OPT-00758,2025-02-06 10:23:26,O-2722,Glaucoma Screening,Ray-Ban,Single Vision,1,133.29,False,133.29
+OPT-00759,2025-04-30 08:59:41,O-2756,Glaucoma Screening,Gucci,Progressive,1,191.8,True,134.26
+OPT-00760,2024-11-05 15:26:06,O-2170,Contact Lens Fitting,Oakley,Contact Lenses,1,113.83,True,79.68
+OPT-00761,2024-12-27 22:02:41,O-2682,Dry Eye Consultation,Generic,Bifocal,1,59.37,False,59.37
+OPT-00762,2024-10-04 19:32:37,O-2902,Eye Exam,Gucci,Single Vision,1,317.3,False,317.3
+OPT-00763,2024-10-05 02:30:17,O-2597,Eye Exam,Generic,Progressive,1,262.66,True,183.86
+OPT-00764,2025-02-20 09:48:23,O-2838,Eye Exam,Prada,Bifocal,1,425.91,True,298.14
+OPT-00765,2024-10-18 09:46:11,O-2773,Contact Lens Fitting,Ray-Ban,Single Vision,1,187.07,False,187.07
+OPT-00766,2024-12-12 08:14:06,O-2463,Dry Eye Consultation,Oakley,Bifocal,1,348.53,False,348.53
+OPT-00767,2024-11-16 13:42:25,O-2373,Dry Eye Consultation,Ray-Ban,Bifocal,1,185.51,False,185.51
+OPT-00768,2024-11-07 18:31:37,O-2912,Dry Eye Consultation,Ray-Ban,Bifocal,1,358.6,True,251.02
+OPT-00769,2025-01-07 12:26:59,O-2151,Dry Eye Consultation,Gucci,Progressive,1,210.74,True,147.52
+OPT-00770,2025-01-02 10:41:18,O-2250,Dry Eye Consultation,Oakley,Progressive,1,384.96,True,269.47
+OPT-00771,2024-11-17 15:26:10,O-2942,Dry Eye Consultation,Ray-Ban,Bifocal,1,444.71,False,444.71
+OPT-00772,2025-01-14 07:21:11,O-2981,Contact Lens Fitting,Oakley,Bifocal,1,449.6,False,449.6
+OPT-00773,2025-01-22 07:55:21,O-2603,Dry Eye Consultation,Oakley,Bifocal,1,135.76,False,135.76
+OPT-00774,2024-08-30 19:41:47,O-2854,Eye Exam,Generic,Contact Lenses,1,305.0,False,305.0
+OPT-00775,2025-07-20 10:07:30,O-2295,Eye Exam,Ray-Ban,Contact Lenses,1,467.25,True,327.07
+OPT-00776,2024-10-09 02:50:05,O-2477,Contact Lens Fitting,Prada,Bifocal,1,330.71,True,231.5
+OPT-00777,2025-02-11 13:31:30,O-2310,Dry Eye Consultation,Oakley,Single Vision,1,409.9,True,286.93
+OPT-00778,2024-12-21 04:40:54,O-2464,Eye Exam,Gucci,Bifocal,1,421.46,True,295.02
+OPT-00779,2025-02-01 23:08:03,O-2054,Dry Eye Consultation,Oakley,Single Vision,1,243.65,True,170.56
+OPT-00780,2025-04-13 09:18:18,O-2051,Glaucoma Screening,Gucci,Bifocal,1,445.42,True,311.79
+OPT-00781,2024-10-01 01:55:35,O-2976,Eye Exam,Oakley,Progressive,1,498.16,True,348.71
+OPT-00782,2025-04-16 00:44:34,O-2442,Eye Exam,Oakley,Progressive,1,64.46,False,64.46
+OPT-00783,2024-09-10 17:55:18,O-2254,Dry Eye Consultation,Generic,Contact Lenses,1,485.11,True,339.58
+OPT-00784,2025-02-26 10:01:11,O-2914,Glaucoma Screening,Oakley,Bifocal,1,127.99,False,127.99
+OPT-00785,2025-03-24 14:26:03,O-2695,Glaucoma Screening,Prada,Progressive,1,357.49,True,250.24
+OPT-00786,2025-03-01 13:19:37,O-2256,Contact Lens Fitting,Generic,Progressive,1,185.48,True,129.84
+OPT-00787,2024-11-15 23:51:25,O-2304,Dry Eye Consultation,Prada,Progressive,1,219.18,False,219.18
+OPT-00788,2025-02-06 07:08:16,O-2098,Contact Lens Fitting,Prada,Contact Lenses,1,362.36,False,362.36
+OPT-00789,2024-12-03 01:27:00,O-2479,Glaucoma Screening,Generic,Contact Lenses,1,239.23,False,239.23
+OPT-00790,2025-08-18 03:53:13,O-2472,Eye Exam,Prada,Single Vision,1,480.87,False,480.87
+OPT-00791,2024-11-12 13:28:33,O-2090,Contact Lens Fitting,Prada,Bifocal,1,403.98,False,403.98
+OPT-00792,2025-06-30 22:32:01,O-2130,Glaucoma Screening,Ray-Ban,Contact Lenses,1,106.67,True,74.67
+OPT-00793,2025-05-07 16:17:19,O-2473,Dry Eye Consultation,Ray-Ban,Single Vision,1,74.61,True,52.23
+OPT-00794,2025-02-28 19:46:46,O-2341,Eye Exam,Oakley,Contact Lenses,1,360.77,True,252.54
+OPT-00795,2025-05-25 10:45:18,O-2124,Eye Exam,Gucci,Progressive,1,302.92,False,302.92
+OPT-00796,2024-12-25 13:55:11,O-2139,Contact Lens Fitting,Gucci,Bifocal,1,332.71,True,232.9
+OPT-00797,2024-11-07 21:48:33,O-2824,Dry Eye Consultation,Prada,Progressive,1,101.62,True,71.13
+OPT-00798,2025-01-11 22:10:35,O-2156,Eye Exam,Prada,Single Vision,1,161.24,True,112.87
+OPT-00799,2025-07-23 04:10:32,O-2485,Eye Exam,Prada,Contact Lenses,1,225.82,True,158.07
+OPT-00800,2025-07-13 08:20:48,O-2307,Dry Eye Consultation,Generic,Progressive,1,419.12,False,419.12
+OPT-00801,2025-02-05 05:51:48,O-2841,Dry Eye Consultation,Prada,Single Vision,1,244.56,True,171.19
+OPT-00802,2025-08-18 22:19:37,O-2189,Contact Lens Fitting,Gucci,Progressive,1,280.18,True,196.13
+OPT-00803,2025-07-12 21:50:12,O-2487,Dry Eye Consultation,Oakley,Bifocal,1,350.39,False,350.39
+OPT-00804,2025-01-14 17:29:59,O-2376,Glaucoma Screening,Generic,Contact Lenses,1,363.94,True,254.76
+OPT-00805,2025-04-18 23:16:51,O-2475,Dry Eye Consultation,Generic,Progressive,1,62.59,False,62.59
+OPT-00806,2024-08-28 23:26:10,O-2123,Dry Eye Consultation,Ray-Ban,Bifocal,1,65.34,False,65.34
+OPT-00807,2025-05-24 03:26:42,O-2043,Glaucoma Screening,Gucci,Contact Lenses,1,447.09,False,447.09
+OPT-00808,2025-03-03 12:05:47,O-2283,Eye Exam,Gucci,Bifocal,1,275.29,True,192.7
+OPT-00809,2025-04-01 22:28:11,O-2357,Dry Eye Consultation,Prada,Single Vision,1,128.52,True,89.96
+OPT-00810,2025-06-03 21:56:59,O-2360,Glaucoma Screening,Generic,Progressive,1,175.25,False,175.25
+OPT-00811,2025-06-27 01:59:14,O-2945,Dry Eye Consultation,Ray-Ban,Contact Lenses,1,219.44,False,219.44
+OPT-00812,2025-01-03 02:53:52,O-2620,Contact Lens Fitting,Prada,Bifocal,1,108.24,False,108.24
+OPT-00813,2024-09-25 14:41:27,O-2602,Glaucoma Screening,Prada,Contact Lenses,1,80.41,True,56.29
+OPT-00814,2025-04-28 23:28:26,O-2872,Contact Lens Fitting,Gucci,Single Vision,1,349.37,False,349.37
+OPT-00815,2025-08-02 05:17:16,O-2956,Dry Eye Consultation,Oakley,Progressive,1,491.6,True,344.12
+OPT-00816,2024-11-19 01:55:32,O-2107,Contact Lens Fitting,Generic,Contact Lenses,1,465.07,True,325.55
+OPT-00817,2024-09-02 04:07:16,O-2626,Glaucoma Screening,Ray-Ban,Single Vision,1,431.06,True,301.74
+OPT-00818,2024-11-08 11:16:32,O-2452,Glaucoma Screening,Prada,Single Vision,1,465.6,False,465.6
+OPT-00819,2025-02-17 18:48:12,O-2110,Dry Eye Consultation,Generic,Progressive,1,494.99,True,346.49
+OPT-00820,2024-11-11 15:19:31,O-2200,Glaucoma Screening,Generic,Contact Lenses,1,355.48,True,248.84
+OPT-00821,2025-08-14 04:42:01,O-2206,Contact Lens Fitting,Generic,Progressive,1,88.71,True,62.1
+OPT-00822,2024-11-17 16:44:34,O-2644,Eye Exam,Gucci,Single Vision,1,414.5,True,290.15
+OPT-00823,2025-04-09 16:47:32,O-2368,Dry Eye Consultation,Prada,Single Vision,1,203.32,False,203.32
+OPT-00824,2025-06-17 05:17:58,O-2194,Contact Lens Fitting,Prada,Contact Lenses,1,275.38,False,275.38
+OPT-00825,2025-06-13 10:00:51,O-2633,Contact Lens Fitting,Ray-Ban,Contact Lenses,1,242.38,False,242.38
+OPT-00826,2024-08-29 03:57:18,O-2894,Eye Exam,Prada,Single Vision,1,107.24,False,107.24
+OPT-00827,2025-05-03 00:22:31,O-2103,Eye Exam,Generic,Progressive,1,73.17,False,73.17
+OPT-00828,2025-03-01 12:18:38,O-2023,Contact Lens Fitting,Oakley,Bifocal,1,225.69,False,225.69
+OPT-00829,2024-09-21 16:54:37,O-2069,Contact Lens Fitting,Oakley,Single Vision,1,290.49,True,203.34
+OPT-00830,2025-07-06 11:24:29,O-2873,Glaucoma Screening,Generic,Single Vision,1,295.67,True,206.97
+OPT-00831,2024-09-24 04:47:01,O-2596,Dry Eye Consultation,Oakley,Single Vision,1,64.52,False,64.52
+OPT-00832,2025-02-28 18:05:30,O-2267,Contact Lens Fitting,Oakley,Single Vision,1,112.68,False,112.68
+OPT-00833,2024-09-19 00:39:59,O-2946,Eye Exam,Gucci,Contact Lenses,1,82.81,True,57.97
+OPT-00834,2025-06-07 20:56:04,O-2354,Eye Exam,Generic,Single Vision,1,449.38,False,449.38
+OPT-00835,2025-06-21 17:01:10,O-2969,Contact Lens Fitting,Oakley,Single Vision,1,96.83,False,96.83
+OPT-00836,2025-01-25 15:42:13,O-2519,Contact Lens Fitting,Oakley,Contact Lenses,1,264.92,True,185.44
+OPT-00837,2025-05-15 09:12:19,O-2021,Eye Exam,Ray-Ban,Progressive,1,290.38,False,290.38
+OPT-00838,2025-03-16 22:20:38,O-2698,Eye Exam,Prada,Contact Lenses,1,73.46,False,73.46
+OPT-00839,2024-10-25 06:23:05,O-2712,Contact Lens Fitting,Generic,Contact Lenses,1,297.3,True,208.11
+OPT-00840,2024-11-05 02:05:55,O-2448,Eye Exam,Prada,Bifocal,1,208.31,False,208.31
+OPT-00841,2024-10-26 23:33:24,O-2447,Eye Exam,Gucci,Progressive,1,91.4,True,63.98
+OPT-00842,2025-08-10 11:11:24,O-2232,Dry Eye Consultation,Prada,Single Vision,1,495.92,True,347.14
+OPT-00843,2025-01-26 06:20:02,O-2894,Contact Lens Fitting,Ray-Ban,Single Vision,1,75.49,False,75.49
+OPT-00844,2025-05-04 00:28:03,O-2184,Glaucoma Screening,Ray-Ban,Bifocal,1,207.35,True,145.14
+OPT-00845,2025-03-02 17:15:46,O-2299,Contact Lens Fitting,Prada,Contact Lenses,1,265.42,True,185.79
+OPT-00846,2025-06-30 03:57:23,O-2672,Eye Exam,Ray-Ban,Bifocal,1,472.27,True,330.59
+OPT-00847,2024-08-30 01:09:36,O-2506,Glaucoma Screening,Gucci,Contact Lenses,1,370.91,False,370.91
+OPT-00848,2025-01-04 09:30:06,O-2798,Glaucoma Screening,Gucci,Bifocal,1,193.49,True,135.44
+OPT-00849,2025-05-15 06:46:54,O-2055,Glaucoma Screening,Generic,Contact Lenses,1,175.9,True,123.13
+OPT-00850,2025-02-05 18:52:24,O-2933,Contact Lens Fitting,Prada,Progressive,1,187.22,True,131.05
+OPT-00851,2025-02-17 15:54:08,O-2125,Glaucoma Screening,Gucci,Single Vision,1,490.06,False,490.06
+OPT-00852,2024-12-31 18:17:17,O-2665,Dry Eye Consultation,Ray-Ban,Single Vision,1,274.51,True,192.16
+OPT-00853,2025-05-05 07:42:53,O-2276,Glaucoma Screening,Prada,Contact Lenses,1,185.19,True,129.63
+OPT-00854,2025-07-26 14:01:41,O-2061,Glaucoma Screening,Prada,Contact Lenses,1,272.91,False,272.91
+OPT-00855,2024-08-29 18:50:58,O-2393,Dry Eye Consultation,Ray-Ban,Progressive,1,142.58,True,99.81
+OPT-00856,2025-07-13 12:29:51,O-2675,Dry Eye Consultation,Prada,Single Vision,1,347.18,True,243.03
+OPT-00857,2024-09-13 04:17:54,O-2554,Glaucoma Screening,Ray-Ban,Bifocal,1,465.21,False,465.21
+OPT-00858,2024-09-04 04:05:27,O-2829,Contact Lens Fitting,Ray-Ban,Bifocal,1,376.6,False,376.6
+OPT-00859,2024-09-16 00:44:54,O-2886,Dry Eye Consultation,Ray-Ban,Single Vision,1,298.98,False,298.98
+OPT-00860,2025-01-30 19:50:28,O-2879,Dry Eye Consultation,Generic,Bifocal,1,123.15,False,123.15
+OPT-00861,2024-11-02 07:17:17,O-2478,Contact Lens Fitting,Gucci,Single Vision,1,176.32,False,176.32
+OPT-00862,2024-12-01 16:06:14,O-2087,Contact Lens Fitting,Prada,Bifocal,1,201.89,False,201.89
+OPT-00863,2025-01-19 15:08:47,O-2039,Glaucoma Screening,Oakley,Bifocal,1,346.65,True,242.65
+OPT-00864,2025-03-28 21:43:59,O-2127,Glaucoma Screening,Prada,Bifocal,1,426.2,True,298.34
+OPT-00865,2025-04-23 01:44:21,O-2454,Dry Eye Consultation,Ray-Ban,Contact Lenses,1,53.99,True,37.79
+OPT-00866,2025-04-05 00:37:48,O-2989,Glaucoma Screening,Generic,Progressive,1,233.87,True,163.71
+OPT-00867,2024-12-18 08:07:22,O-2283,Glaucoma Screening,Ray-Ban,Contact Lenses,1,130.91,False,130.91
+OPT-00868,2025-08-20 14:10:52,O-2265,Dry Eye Consultation,Gucci,Progressive,1,333.65,True,233.55
+OPT-00869,2025-08-02 21:25:58,O-2892,Eye Exam,Gucci,Single Vision,1,344.57,True,241.2
+OPT-00870,2025-06-12 02:43:10,O-2700,Dry Eye Consultation,Prada,Bifocal,1,68.88,True,48.22
+OPT-00871,2025-03-13 10:04:32,O-2062,Glaucoma Screening,Oakley,Single Vision,1,355.27,False,355.27
+OPT-00872,2024-09-15 12:51:30,O-2553,Eye Exam,Prada,Progressive,1,207.38,True,145.17
+OPT-00873,2025-01-01 11:57:22,O-2519,Dry Eye Consultation,Ray-Ban,Single Vision,1,156.64,False,156.64
+OPT-00874,2024-10-11 18:22:11,O-2584,Glaucoma Screening,Generic,Single Vision,1,338.85,False,338.85
+OPT-00875,2024-09-19 06:59:50,O-2146,Eye Exam,Oakley,Bifocal,1,200.74,False,200.74
+OPT-00876,2025-07-25 21:54:21,O-2918,Glaucoma Screening,Generic,Bifocal,1,329.86,True,230.9
+OPT-00877,2024-12-04 21:27:29,O-2377,Eye Exam,Oakley,Progressive,1,460.34,True,322.24
+OPT-00878,2025-06-20 15:45:22,O-2108,Contact Lens Fitting,Oakley,Bifocal,1,472.97,False,472.97
+OPT-00879,2024-10-12 17:18:53,O-2850,Eye Exam,Gucci,Contact Lenses,1,393.18,True,275.23
+OPT-00880,2025-02-02 02:43:29,O-2978,Eye Exam,Gucci,Contact Lenses,1,292.54,True,204.78
+OPT-00881,2024-11-01 02:39:47,O-2867,Eye Exam,Prada,Contact Lenses,1,346.64,False,346.64
+OPT-00882,2024-10-18 21:37:20,O-2324,Glaucoma Screening,Gucci,Bifocal,1,459.98,False,459.98
+OPT-00883,2025-03-29 08:23:24,O-2248,Glaucoma Screening,Gucci,Contact Lenses,1,191.67,True,134.17
+OPT-00884,2024-09-13 03:19:29,O-2709,Contact Lens Fitting,Generic,Contact Lenses,1,212.85,False,212.85
+OPT-00885,2025-07-19 18:55:23,O-2573,Eye Exam,Oakley,Contact Lenses,1,322.35,False,322.35
+OPT-00886,2025-03-21 17:38:13,O-2805,Dry Eye Consultation,Gucci,Progressive,1,466.57,True,326.6
+OPT-00887,2025-05-23 01:08:36,O-2795,Dry Eye Consultation,Prada,Progressive,1,322.5,False,322.5
+OPT-00888,2025-08-11 15:36:11,O-2349,Glaucoma Screening,Ray-Ban,Single Vision,1,233.83,True,163.68
+OPT-00889,2025-04-19 02:44:22,O-2589,Dry Eye Consultation,Gucci,Progressive,1,444.38,True,311.07
+OPT-00890,2024-09-23 18:54:29,O-2170,Eye Exam,Generic,Bifocal,1,394.48,False,394.48
+OPT-00891,2025-01-04 06:12:04,O-2760,Eye Exam,Gucci,Single Vision,1,425.24,True,297.67
+OPT-00892,2025-05-16 03:31:41,O-2706,Contact Lens Fitting,Ray-Ban,Progressive,1,281.7,False,281.7
+OPT-00893,2024-09-03 00:03:49,O-2925,Dry Eye Consultation,Oakley,Progressive,1,231.04,True,161.73
+OPT-00894,2024-12-22 14:42:41,O-2729,Glaucoma Screening,Ray-Ban,Bifocal,1,453.84,False,453.84
+OPT-00895,2024-12-14 17:35:11,O-2605,Eye Exam,Ray-Ban,Single Vision,1,382.44,False,382.44
+OPT-00896,2024-08-28 19:41:52,O-2972,Dry Eye Consultation,Generic,Contact Lenses,1,383.31,False,383.31
+OPT-00897,2024-09-12 17:23:40,O-2296,Dry Eye Consultation,Gucci,Progressive,1,375.67,True,262.97
+OPT-00898,2025-07-30 10:47:17,O-2155,Eye Exam,Prada,Bifocal,1,353.26,False,353.26
+OPT-00899,2025-06-14 03:24:32,O-2388,Glaucoma Screening,Generic,Progressive,1,278.9,False,278.9
+OPT-00900,2024-11-17 19:31:20,O-2967,Eye Exam,Gucci,Bifocal,1,271.98,True,190.39
+OPT-00901,2025-06-04 03:16:12,O-2577,Dry Eye Consultation,Oakley,Bifocal,1,222.83,True,155.98
+OPT-00902,2025-06-04 14:13:45,O-2976,Contact Lens Fitting,Ray-Ban,Progressive,1,243.74,False,243.74
+OPT-00903,2024-09-20 23:24:10,O-2588,Glaucoma Screening,Ray-Ban,Bifocal,1,178.16,True,124.71
+OPT-00904,2025-03-20 08:14:26,O-2294,Glaucoma Screening,Generic,Contact Lenses,1,150.64,True,105.45
+OPT-00905,2024-11-13 16:54:45,O-2295,Glaucoma Screening,Prada,Single Vision,1,466.03,False,466.03
+OPT-00906,2025-08-10 00:21:12,O-2144,Eye Exam,Gucci,Progressive,1,62.31,True,43.62
+OPT-00907,2025-02-17 09:57:45,O-2982,Contact Lens Fitting,Ray-Ban,Contact Lenses,1,424.63,True,297.24
+OPT-00908,2025-05-06 18:21:06,O-2378,Contact Lens Fitting,Oakley,Contact Lenses,1,379.44,True,265.61
+OPT-00909,2025-06-24 16:12:59,O-2850,Dry Eye Consultation,Oakley,Single Vision,1,372.31,True,260.62
+OPT-00910,2025-01-31 18:37:57,O-2455,Dry Eye Consultation,Generic,Bifocal,1,89.09,True,62.36
+OPT-00911,2024-11-12 15:48:25,O-2285,Eye Exam,Oakley,Single Vision,1,384.92,True,269.44
+OPT-00912,2025-03-11 22:00:56,O-2744,Eye Exam,Oakley,Progressive,1,278.18,False,278.18
+OPT-00913,2025-02-28 05:00:50,O-2464,Eye Exam,Oakley,Single Vision,1,245.02,False,245.02
+OPT-00914,2024-10-08 11:09:06,O-2194,Eye Exam,Ray-Ban,Progressive,1,111.59,False,111.59
+OPT-00915,2025-01-22 15:26:48,O-2893,Contact Lens Fitting,Gucci,Bifocal,1,261.55,False,261.55
+OPT-00916,2025-08-24 13:17:11,O-2833,Contact Lens Fitting,Generic,Bifocal,1,109.31,True,76.52
+OPT-00917,2025-06-05 00:12:13,O-2973,Contact Lens Fitting,Ray-Ban,Contact Lenses,1,80.27,True,56.19
+OPT-00918,2025-03-21 10:27:07,O-2727,Contact Lens Fitting,Ray-Ban,Contact Lenses,1,359.59,False,359.59
+OPT-00919,2025-03-17 12:32:47,O-2646,Contact Lens Fitting,Oakley,Contact Lenses,1,288.71,True,202.1
+OPT-00920,2024-12-29 07:08:06,O-2898,Glaucoma Screening,Gucci,Bifocal,1,350.59,False,350.59
+OPT-00921,2025-04-24 01:50:33,O-2815,Dry Eye Consultation,Prada,Bifocal,1,294.54,False,294.54
+OPT-00922,2024-08-29 04:45:51,O-2098,Contact Lens Fitting,Ray-Ban,Bifocal,1,238.82,False,238.82
+OPT-00923,2025-06-23 08:16:21,O-2333,Contact Lens Fitting,Generic,Single Vision,1,129.29,False,129.29
+OPT-00924,2025-01-05 17:38:58,O-2676,Eye Exam,Oakley,Contact Lenses,1,367.17,False,367.17
+OPT-00925,2025-04-05 19:09:14,O-2860,Dry Eye Consultation,Prada,Contact Lenses,1,359.25,True,251.47
+OPT-00926,2025-06-12 22:59:24,O-2297,Glaucoma Screening,Prada,Progressive,1,450.41,False,450.41
+OPT-00927,2024-11-28 10:05:03,O-2062,Glaucoma Screening,Oakley,Bifocal,1,235.05,False,235.05
+OPT-00928,2024-11-05 12:33:16,O-2435,Dry Eye Consultation,Oakley,Single Vision,1,170.74,True,119.52
+OPT-00929,2025-02-03 15:43:23,O-2347,Eye Exam,Oakley,Contact Lenses,1,234.42,True,164.09
+OPT-00930,2024-11-30 08:00:39,O-2548,Contact Lens Fitting,Ray-Ban,Bifocal,1,108.15,True,75.7
+OPT-00931,2025-01-27 04:50:47,O-2973,Eye Exam,Generic,Single Vision,1,401.2,False,401.2
+OPT-00932,2024-10-02 22:01:06,O-2934,Glaucoma Screening,Prada,Single Vision,1,344.72,True,241.3
+OPT-00933,2025-02-20 19:35:51,O-2370,Contact Lens Fitting,Gucci,Contact Lenses,1,436.88,True,305.82
+OPT-00934,2025-01-18 12:01:33,O-2297,Contact Lens Fitting,Oakley,Bifocal,1,236.03,True,165.22
+OPT-00935,2025-02-05 22:11:14,O-2962,Eye Exam,Ray-Ban,Single Vision,1,389.8,True,272.86
+OPT-00936,2024-12-07 04:45:08,O-2513,Dry Eye Consultation,Generic,Single Vision,1,120.63,False,120.63
+OPT-00937,2024-12-27 12:23:43,O-2024,Contact Lens Fitting,Gucci,Single Vision,1,172.61,True,120.83
+OPT-00938,2025-02-19 14:07:40,O-2832,Dry Eye Consultation,Generic,Progressive,1,418.23,False,418.23
+OPT-00939,2024-09-12 22:36:03,O-2882,Eye Exam,Ray-Ban,Single Vision,1,277.03,False,277.03
+OPT-00940,2024-10-05 19:09:01,O-2020,Eye Exam,Prada,Progressive,1,93.0,False,93.0
+OPT-00941,2024-12-25 08:12:54,O-2198,Glaucoma Screening,Oakley,Contact Lenses,1,280.56,True,196.39
+OPT-00942,2025-03-17 08:17:31,O-2309,Glaucoma Screening,Generic,Progressive,1,94.86,False,94.86
+OPT-00943,2025-01-24 16:29:20,O-2385,Glaucoma Screening,Generic,Single Vision,1,150.01,False,150.01
+OPT-00944,2025-04-27 16:31:10,O-2574,Glaucoma Screening,Generic,Bifocal,1,458.45,True,320.91
+OPT-00945,2025-08-06 04:41:44,O-2391,Eye Exam,Generic,Contact Lenses,1,478.16,True,334.71
+OPT-00946,2025-07-15 14:55:26,O-2463,Contact Lens Fitting,Prada,Single Vision,1,228.81,True,160.17
+OPT-00947,2025-06-05 19:52:41,O-2457,Glaucoma Screening,Generic,Single Vision,1,339.27,False,339.27
+OPT-00948,2025-02-06 16:33:44,O-2147,Eye Exam,Ray-Ban,Progressive,1,143.46,False,143.46
+OPT-00949,2025-01-17 17:09:35,O-2607,Contact Lens Fitting,Ray-Ban,Progressive,1,231.44,False,231.44
+OPT-00950,2025-06-07 20:43:35,O-2535,Contact Lens Fitting,Ray-Ban,Contact Lenses,1,163.41,False,163.41
+OPT-00951,2025-03-19 01:29:32,O-2758,Glaucoma Screening,Gucci,Single Vision,1,194.65,False,194.65
+OPT-00952,2024-09-24 20:04:50,O-2892,Eye Exam,Oakley,Progressive,1,389.77,False,389.77
+OPT-00953,2024-09-22 12:25:58,O-2558,Dry Eye Consultation,Oakley,Progressive,1,194.83,False,194.83
+OPT-00954,2025-04-15 03:29:02,O-2526,Eye Exam,Ray-Ban,Contact Lenses,1,364.67,False,364.67
+OPT-00955,2025-06-25 19:38:32,O-2130,Eye Exam,Gucci,Single Vision,1,124.79,False,124.79
+OPT-00956,2024-11-02 05:35:16,O-2890,Eye Exam,Ray-Ban,Contact Lenses,1,272.83,False,272.83
+OPT-00957,2025-08-15 17:29:22,O-2143,Dry Eye Consultation,Generic,Single Vision,1,183.54,False,183.54
+OPT-00958,2025-06-12 04:38:10,O-2301,Glaucoma Screening,Prada,Bifocal,1,326.8,False,326.8
+OPT-00959,2025-06-26 06:44:04,O-2577,Contact Lens Fitting,Gucci,Bifocal,1,285.46,True,199.82
+OPT-00960,2024-10-05 15:31:30,O-2822,Glaucoma Screening,Prada,Bifocal,1,262.45,True,183.71
+OPT-00961,2024-09-20 00:04:41,O-2958,Glaucoma Screening,Gucci,Progressive,1,285.97,False,285.97
+OPT-00962,2025-01-16 10:42:57,O-2010,Glaucoma Screening,Generic,Progressive,1,117.66,True,82.36
+OPT-00963,2024-12-31 12:52:13,O-2005,Glaucoma Screening,Gucci,Progressive,1,362.32,False,362.32
+OPT-00964,2024-09-22 10:51:22,O-2338,Eye Exam,Ray-Ban,Contact Lenses,1,317.5,True,222.25
+OPT-00965,2025-06-29 02:18:29,O-2358,Contact Lens Fitting,Oakley,Single Vision,1,467.55,False,467.55
+OPT-00966,2025-02-26 08:57:46,O-2291,Dry Eye Consultation,Prada,Bifocal,1,215.27,False,215.27
+OPT-00967,2025-07-06 14:49:49,O-2956,Glaucoma Screening,Prada,Progressive,1,84.86,True,59.4
+OPT-00968,2024-10-11 00:26:39,O-2105,Contact Lens Fitting,Oakley,Progressive,1,168.32,True,117.82
+OPT-00969,2025-07-17 00:18:54,O-2129,Dry Eye Consultation,Oakley,Bifocal,1,485.0,False,485.0
+OPT-00970,2025-07-08 12:50:34,O-2214,Contact Lens Fitting,Ray-Ban,Progressive,1,495.09,True,346.56
+OPT-00971,2024-10-10 22:53:38,O-2951,Contact Lens Fitting,Gucci,Progressive,1,263.96,True,184.77
+OPT-00972,2025-07-04 11:30:17,O-2331,Eye Exam,Ray-Ban,Progressive,1,280.27,False,280.27
+OPT-00973,2024-11-18 15:53:07,O-2435,Dry Eye Consultation,Oakley,Bifocal,1,275.17,True,192.62
+OPT-00974,2025-02-21 09:25:18,O-2246,Dry Eye Consultation,Generic,Contact Lenses,1,367.81,False,367.81
+OPT-00975,2025-01-18 15:22:04,O-2319,Glaucoma Screening,Prada,Single Vision,1,447.48,True,313.24
+OPT-00976,2025-05-10 08:02:22,O-2978,Contact Lens Fitting,Oakley,Progressive,1,427.94,False,427.94
+OPT-00977,2025-02-21 01:04:20,O-2501,Glaucoma Screening,Ray-Ban,Contact Lenses,1,343.44,True,240.41
+OPT-00978,2025-02-26 08:28:27,O-2025,Glaucoma Screening,Generic,Bifocal,1,377.82,True,264.47
+OPT-00979,2025-07-31 07:14:55,O-2631,Contact Lens Fitting,Generic,Bifocal,1,130.55,True,91.39
+OPT-00980,2025-06-23 21:28:56,O-2200,Dry Eye Consultation,Oakley,Progressive,1,52.53,False,52.53
+OPT-00981,2025-07-25 12:49:00,O-2336,Eye Exam,Oakley,Bifocal,1,276.26,True,193.38
+OPT-00982,2025-08-15 10:45:47,O-2621,Glaucoma Screening,Ray-Ban,Bifocal,1,338.75,False,338.75
+OPT-00983,2025-06-19 12:41:36,O-2044,Glaucoma Screening,Oakley,Single Vision,1,487.01,True,340.91
+OPT-00984,2024-12-31 23:36:54,O-2883,Dry Eye Consultation,Prada,Contact Lenses,1,270.64,False,270.64
+OPT-00985,2024-08-30 21:34:43,O-2767,Eye Exam,Ray-Ban,Bifocal,1,62.98,True,44.09
+OPT-00986,2025-04-15 03:14:37,O-2722,Contact Lens Fitting,Gucci,Single Vision,1,238.81,True,167.17
+OPT-00987,2025-07-13 16:14:24,O-2057,Dry Eye Consultation,Ray-Ban,Bifocal,1,93.86,False,93.86
+OPT-00988,2025-04-14 18:32:29,O-2873,Contact Lens Fitting,Prada,Single Vision,1,199.7,False,199.7
+OPT-00989,2025-03-15 19:25:09,O-2919,Contact Lens Fitting,Prada,Bifocal,1,282.35,False,282.35
+OPT-00990,2025-04-28 09:06:36,O-2426,Eye Exam,Ray-Ban,Progressive,1,421.27,True,294.89
+OPT-00991,2025-07-29 22:17:03,O-2746,Glaucoma Screening,Ray-Ban,Progressive,1,249.53,False,249.53
+OPT-00992,2025-08-14 19:20:52,O-2623,Contact Lens Fitting,Prada,Contact Lenses,1,127.84,True,89.49
+OPT-00993,2025-04-01 17:59:59,O-2318,Glaucoma Screening,Prada,Bifocal,1,102.97,False,102.97
+OPT-00994,2025-01-04 03:28:15,O-2581,Eye Exam,Prada,Contact Lenses,1,89.67,True,62.77
+OPT-00995,2025-01-26 00:39:27,O-2186,Eye Exam,Gucci,Bifocal,1,316.02,True,221.21
+OPT-00996,2024-12-20 13:34:54,O-2785,Contact Lens Fitting,Ray-Ban,Progressive,1,337.08,False,337.08
+OPT-00997,2024-11-25 11:35:39,O-2083,Contact Lens Fitting,Oakley,Progressive,1,386.33,True,270.43
+OPT-00998,2024-08-30 15:42:40,O-2317,Eye Exam,Generic,Bifocal,1,130.1,True,91.07
+OPT-00999,2024-10-07 08:34:43,O-2578,Glaucoma Screening,Generic,Progressive,1,425.87,False,425.87
+OPT-01000,2025-02-27 14:47:00,O-2904,Contact Lens Fitting,Gucci,Bifocal,1,166.71,False,166.71
